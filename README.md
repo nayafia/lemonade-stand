@@ -10,20 +10,20 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 
 # Table of Contents
-1. Donation button
-2. Bounties
-3. Crowdfunding (one-time)
-4. Crowdfunding (recurring)
-5. Advertising & sponsorships
-6. Get hired by a company to work on project
-7. Start a project while currently employed
-8. Grants
-9. Consulting & services
-10. Open core & paid versions
-11. Foundations & consortiums
-12. Venture capital
+1. [Donation button](#donation-button)
+2. [Bounties](#bounties)
+3. [Crowdfunding (one-time)](#crowdfunding-one-time)
+4. [Crowdfunding (recurring)](#crowdfunding-recurring)
+5. [Advertising & sponsorships](#advertising--sponsorships)
+6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+7. [Start a project while currently employed](#start-a-project-while-currently-employed)
+8. [Grants](#grants)
+9. [Consulting & services](#consulting--services)
+10. [Open core & paid versions](#open-core--paid-versions)
+11. [Foundations & consortiums](#foundations--consortiums)
+12. [Venture capital](#venture-capital)
 
-APPENDIX: Contributing to this guide // License & Attribution
+APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
 
 
 ## Donation button
@@ -41,7 +41,6 @@ APPENDIX: Contributing to this guide // License & Attribution
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
 
-
 ##Bounties
 
 ####Pros
@@ -57,20 +56,6 @@ APPENDIX: Contributing to this guide // License & Attribution
 ####Case Studies
 * [Bountysource](http://bountysource.com)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
-
-##Advertising & sponsorships
-
-####Pros
-* Business model aligned with something people are willing to pay for
-
-####Cons
-* Need large enough audience to justify sponsorships
-* Need to manage trust and transparency with user base (ex. no tracking)
-* Can be a lot of work to find and manage clients
-
-####Case Studies
-* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
-* [Hoodie](http://hood.ie/sponsoring/)
 
 ##Crowdfunding (one-time)
 
@@ -105,6 +90,20 @@ APPENDIX: Contributing to this guide // License & Attribution
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
+
+##Advertising & sponsorships
+
+####Pros
+* Business model aligned with something people are willing to pay for
+
+####Cons
+* Need large enough audience to justify sponsorships
+* Need to manage trust and transparency with user base (ex. no tracking)
+* Can be a lot of work to find and manage clients
+
+####Case Studies
+* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
+* [Hoodie](http://hood.ie/sponsoring/)
 
 ##Get hired by a company to work on project
 
@@ -230,5 +229,5 @@ I wrote up this guide to aggregate knowledge off the top of my head, but I'm not
 
 If something is factually incorrect (especially with a case study example), I welcome your edits. Also, if there's a category you know of that I missed, I would also welcome that addition.
 
-### License and Attribution
+### License and attribution
 This guide is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). If you do use it, I'd love to hear about it! (Find me here: [@nayafia](http://twitter.com/nayafia)) But you are in no way required to do so.
