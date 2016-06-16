@@ -123,7 +123,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Hewlett-Packard and Python packaging](https://twitter.com/dstufft/status/594119386333609984)
 * [Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
 * [ManageIQ and Ruby, Rails](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
-* [Joyent and Node.js](https://groups.google.com/forum/#!topic/nodejs/lWo0MbHZ6Tc)
+* [Joyent and Node.js (opens a YouTube video)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 ##Start a project while currently employed
 
