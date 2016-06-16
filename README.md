@@ -58,9 +58,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Wikipedia / Wikimedia Foundation](https://meta.wikimedia.org/wiki/Fundraising)
 * [Hardcoded](https://www.hardcoded.net/articles/phasing-out-fairware)
 
-#### Case studies
-
-
 ##Bounties
 
 ####Pros
