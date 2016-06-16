@@ -56,7 +56,8 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 #### Case Studies
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
 * [Wikipedia / Wikimedia Foundation](https://meta.wikimedia.org/wiki/Fundraising)
-* [Hardcoded](https://www.hardcoded.net/articles/phasing-out-fairware)
+* [Transmission](https://www.transmissionbt.com/)
+* [Cyberduck](https://cyberduck.io/)
 
 ##Bounties
 
