@@ -20,7 +20,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 8. [Grants](#grants)
 9. [Consulting & services](#consulting--services)
 10. [Open core & paid versions](#open-core--paid-versions)
-11. [Managed service](#managed--or--hosting--services)
+11. [Managed or hosted services](#managed--or--hosted--services)
 12. [Foundations & consortiums](#foundations--consortiums)
 13. [Venture capital](#venture-capital)
 
@@ -191,7 +191,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 
-##Managed or Hosting Services
+##Managed or hosted services
 
 ####Pros
 * Can build community around open project and make money off of services for hosting
