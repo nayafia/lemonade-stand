@@ -123,6 +123,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Hewlett-Packard and Python packaging](https://twitter.com/dstufft/status/594119386333609984)
 * [Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
 * [ManageIQ and Ruby, Rails](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
+* [Joyent and Node.js](https://groups.google.com/forum/#!topic/nodejs/lWo0MbHZ6Tc)
 
 ##Start a project while currently employed
 
@@ -138,7 +139,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Case Studies
 * [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
-* [Joyent and Node.js](https://groups.google.com/forum/#!topic/nodejs/lWo0MbHZ6Tc)
 * [Google and Go](https://golang.org/doc/faq#history)
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
 
