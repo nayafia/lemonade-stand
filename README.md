@@ -20,7 +20,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 8. [Grants](#grants)
 9. [Consulting & services](#consulting--services)
 10. [Open core & paid versions](#open-core--paid-versions)
-11. [Managed or hosted services](#managed-or-hosted--services)
+11. [Managed or hosted services](#managed-or-hosted-services)
 12. [Foundations & consortiums](#foundations--consortiums)
 13. [Venture capital](#venture-capital)
 
