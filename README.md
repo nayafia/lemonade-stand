@@ -11,6 +11,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 # Table of Contents
 1. [Donation button](#donation-button)
+1. [Nagware](#nagware)
 1. [Bounties](#bounties)
 1. [Crowdfunding (one-time)](#crowdfunding-one-time)
 1. [Crowdfunding (recurring)](#crowdfunding-recurring)
@@ -40,6 +41,25 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Case Studies
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
+
+## Nagware
+
+#### Pros
+* Scalable: more users, more donations
+* Same pros as donation button
+
+#### Cons
+* Only appropriate for user-facing projects, with large (or generous) user base, who have easy access to payment methods
+* Need to interrupt the user experience periodically
+* Same cons as donation button
+
+#### Case Studies
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
+* [Wikipedia / Wikimedia Foundation](https://meta.wikimedia.org/wiki/Fundraising)
+* [Hardcoded](https://www.hardcoded.net/articles/phasing-out-fairware)
+
+#### Case studies
+
 
 ##Bounties
 
