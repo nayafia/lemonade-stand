@@ -11,17 +11,17 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 # Table of Contents
 1. [Donation button](#donation-button)
-2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Advertising & sponsorships](#advertising--sponsorships)
-6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-7. [Start a project while currently employed](#start-a-project-while-currently-employed)
-8. [Grants](#grants)
-9. [Consulting & services](#consulting--services)
-10. [Open core & paid versions](#open-core--paid-versions)
-11. [Foundations & consortiums](#foundations--consortiums)
-12. [Venture capital](#venture-capital)
+1. [Bounties](#bounties)
+1. [Crowdfunding (one-time)](#crowdfunding-one-time)
+1. [Crowdfunding (recurring)](#crowdfunding-recurring)
+1. [Advertising & sponsorships](#advertising--sponsorships)
+1. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+1. [Start a project while currently employed](#start-a-project-while-currently-employed)
+1. [Grants](#grants)
+1. [Consulting & services](#consulting--services)
+1. [Open core & paid versions](#open-core--paid-versions)
+1. [Foundations & consortiums](#foundations--consortiums)
+1. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
 
