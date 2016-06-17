@@ -100,9 +100,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Pros
 * Outcome not tied to project work itself, so you retain creative freedom
 * Can serve as marketing for the project itself
+* Can be recurring source of revenue after initial development
 
 ####Cons
 * Often not a significant source of revenue
+* Can distract from core development of project
 * Merchandise can have upfront costs
 
 ####Case Studies
