@@ -19,8 +19,8 @@ The categories are not mutually exclusive. For example, a project might have a f
 7. [Start a project while currently employed](#start-a-project-while-currently-employed)
 8. [Grants](#grants)
 9. [Consulting & services](#consulting--services)
-10. [Open core & paid versions](#open-core--paid-versions)
-11. [Managed or hosted services](#managed-or-hosted-services)
+11. [SaaS](#saas)
+12. [Open core](#open-core)
 12. [Foundations & consortiums](#foundations--consortiums)
 13. [Venture capital](#venture-capital)
 
@@ -177,7 +177,28 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Baroque Software](http://baroquesoftware.com/)
 * [OpenSSL](http://openssl.com/what.html)
 
-##Open core & paid versions
+##SaaS
+
+####Pros
+* Can build community around open project and make money off of services for hosting
+* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
+* Can scale by number of users
+
+####Cons
+* Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
+* “Two tiers” of product support can make free users unhappy
+
+####Case Studies
+* [Wordpress Engine](http://wordpress.com/)
+* [Moodle](https://moodle.org/)
+* [Forge Laravel](https://forge.laravel.com/)
+* [Gitlab](http://gitlab.com)
+* [Sidekiq](http://sidekiq.org/)
+* [Sentry](https://getsentry.com/)
+* [Travis CI](https://travis-ci.org/)
+* [Ghost](https://ghost.org/)
+
+##Open core
 
 ####Pros
 * Business model aligned with something people are willing to pay for
@@ -189,27 +210,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * “Two tiers” of product support can make free users unhappy
 
 ####Case Studies
-* [Sidekiq](http://sidekiq.org/)
-* [Sentry](https://getsentry.com/)
-* [Travis CI](https://travis-ci.org/)
-
-##Managed or hosted services
-
-####Pros
-* Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
-* Can scale by number of users
-
-####Cons
-* Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
-* Same “Two tiers” of product support as Open Core and paid services
-
-####Case Studies
-* [Wordpress Engine](http://wordpress.com/)
-* [Moodle](https://moodle.org/)
-* [Forge Laravel](https://forge.laravel.com/)
-* [Gitlab](http://gitlab.com)
-
+* [Docker](https://www.docker.com/)
+* [Elastic](https://www.elastic.co/)
+* [Mesosphere](https://mesosphere.com/)
 
 ##Foundations & consortiums
 
