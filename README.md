@@ -40,6 +40,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Case Studies
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
+* [Transmission](https://www.transmissionbt.com/)
 
 ##Bounties
 
