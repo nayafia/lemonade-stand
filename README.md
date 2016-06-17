@@ -11,17 +11,18 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 # Table of Contents
 1. [Donation button](#donation-button)
-2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Advertising & sponsorships](#advertising--sponsorships)
-6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-7. [Start a project while currently employed](#start-a-project-while-currently-employed)
-8. [Grants](#grants)
-9. [Consulting & services](#consulting--services)
-10. [Open core & paid versions](#open-core--paid-versions)
-11. [Foundations & consortiums](#foundations--consortiums)
-12. [Venture capital](#venture-capital)
+1. [Nagware](#nagware)
+1. [Bounties](#bounties)
+1. [Crowdfunding (one-time)](#crowdfunding-one-time)
+1. [Crowdfunding (recurring)](#crowdfunding-recurring)
+1. [Advertising & sponsorships](#advertising--sponsorships)
+1. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+1. [Start a project while currently employed](#start-a-project-while-currently-employed)
+1. [Grants](#grants)
+1. [Consulting & services](#consulting--services)
+1. [Open core & paid versions](#open-core--paid-versions)
+1. [Foundations & consortiums](#foundations--consortiums)
+1. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
 
@@ -40,6 +41,23 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Case Studies
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
+
+## Nagware
+
+#### Pros
+* Scalable: more users, more donations
+* Same pros as donation button
+
+#### Cons
+* Only appropriate for user-facing projects, with large (or generous) user base, who have easy access to payment methods
+* Need to interrupt the user experience periodically
+* Same cons as donation button
+
+#### Case Studies
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html)
+* [Wikipedia / Wikimedia Foundation](https://meta.wikimedia.org/wiki/Fundraising)
+* [Transmission](https://www.transmissionbt.com/)
+* [Cyberduck](https://cyberduck.io/)
 
 ##Bounties
 
