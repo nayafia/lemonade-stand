@@ -90,6 +90,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
+* [Django REST framework](https://fund.django-rest-framework.org/topics/funding/)
 
 ##Advertising & sponsorships
 
