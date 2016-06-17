@@ -14,15 +14,16 @@ The categories are not mutually exclusive. For example, a project might have a f
 2. [Bounties](#bounties)
 3. [Crowdfunding (one-time)](#crowdfunding-one-time)
 4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Advertising & sponsorships](#advertising--sponsorships)
-6. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-7. [Start a project while currently employed](#start-a-project-while-currently-employed)
-8. [Grants](#grants)
-9. [Consulting & services](#consulting--services)
+5. [Books and merchandise](#books-and-merchandise)
+6. [Advertising & sponsorships](#advertising--sponsorships)
+7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+8. [Start a project while currently employed](#start-a-project-while-currently-employed)
+9. [Grants](#grants)
+10. [Consulting & services](#consulting--services)
 11. [SaaS](#saas)
 12. [Open core](#open-core)
-12. [Foundations & consortiums](#foundations--consortiums)
-13. [Venture capital](#venture-capital)
+13. [Foundations & consortiums](#foundations--consortiums)
+14. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
 
@@ -93,6 +94,21 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
 * [Django REST framework](https://fund.django-rest-framework.org/topics/funding/)
+
+##Books and merchandise
+
+####Pros
+* Outcome not tied to project work itself, so you retain creative freedom
+* Can serve as marketing for the project itself
+
+####Cons
+* Often not a significant source of revenue
+* Merchandise can have upfront costs
+
+####Case Studies
+* [Lua](https://www.lua.org/pil/)
+* [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
 
 ##Advertising & sponsorships
 
