@@ -76,6 +76,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Rvm](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Django](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [CPAN](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
 
 ##Crowdfunding (recurring)
 
