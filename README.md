@@ -1,7 +1,7 @@
 # A handy guide to making money in open source.
 *"I do open source work, how do I get paid for it?"*
 
-Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
+Below I've listed every way I know of that people get paid for work on [free/libre](https://en.wikipedia.org/wiki/Free_software) [open source](https://en.wikipedia.org/wiki/Open-source_software) projects, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
 
@@ -197,6 +197,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [OpenSSL](http://openssl.com/what.html)
 
 ##SaaS
+SaaS stands for [Software as a service](https://en.wikipedia.org/wiki/Software_as_a_service)
 
 ####Pros
 * Can build community around open project and make money off of services for hosting
@@ -216,7 +217,8 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
 
-##Open core
+##[Open core](https://en.wikipedia.org/wiki/Open_core)
+
 
 ####Pros
 * Business model aligned with something people are willing to pay for
