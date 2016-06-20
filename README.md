@@ -27,6 +27,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
 
+**"personal effort" notes when a funding effort was led by an individual, not a project*
 
 ## Donation button
 
@@ -73,9 +74,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Companies not always comfortable donating to campaigns
 
 ####Case Studies
-* [Rvm](https://www.bountysource.com/teams/rvm/fundraiser)
-* [Django](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [CPAN](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
+* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 * [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
 
 ##Crowdfunding (recurring)
@@ -94,7 +95,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
-* [Django REST framework](https://fund.django-rest-framework.org/topics/funding/)
+* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 
 ##Books and merchandise
 
@@ -110,8 +111,8 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Case Studies
 * [Lua](https://www.lua.org/pil/)
-* [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
+* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
 
 ##Advertising & sponsorships
 
@@ -142,10 +143,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * Can affect project dynamics + balance
 
 ####Case Studies
-* [Hewlett-Packard and Python packaging](https://twitter.com/dstufft/status/594119386333609984)
-* [Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
-* [ManageIQ and Ruby, Rails](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
-* [Joyent and Node.js (opens a YouTube video)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
+* [Donald Stufft + Hewlett-Packard and Python packaging (personal effort)](https://twitter.com/dstufft/status/594119386333609984)
+* [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
+* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
+* [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 ##Start a project while currently employed
 
@@ -177,7 +178,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Case Studies
 * [Dat](https://usopendata.org/)
-* [Urllib3 and Stripe Open-Source Retreat](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
+* [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django and Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulting & services
