@@ -211,7 +211,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
 * [Gitlab](http://gitlab.com)
-* [Sidekiq](http://sidekiq.org/)
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
@@ -231,6 +230,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
+* [Sidekiq](http://sidekiq.org/)
 
 ##Foundations & consortiums
 
