@@ -263,6 +263,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
+* [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
 ---
 
