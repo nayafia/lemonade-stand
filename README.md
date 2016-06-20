@@ -1,5 +1,5 @@
-# A handy guide to making money in open source.
-*"I do open source work, how do I get paid for it?"*
+# A handy guide to financial support for open source.
+*"I do open source work, how do I find funding?"*
 
 Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
 
