@@ -207,7 +207,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * “Two tiers” of product support can make free users unhappy
 
 ####Case Studies
-* [Wordpress Engine](http://wordpress.com/)
+* [WordPress.com](http://wordpress.com/)
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
 * [Gitlab](http://gitlab.com)
