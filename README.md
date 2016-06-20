@@ -164,6 +164,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
 * [Google and Go](https://golang.org/doc/faq#history)
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
+* [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 
 ##Grants
 
