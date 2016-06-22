@@ -21,9 +21,10 @@ The categories are not mutually exclusive. For example, a project might have a f
 9. [Grants](#grants)
 10. [Consulting & services](#consulting--services)
 11. [SaaS](#saas)
-12. [Open core](#open-core)
-13. [Foundations & consortiums](#foundations--consortiums)
-14. [Venture capital](#venture-capital)
+12. [Dual license](#dual-license)
+13. [Open core](#open-core)
+14. [Foundations & consortiums](#foundations--consortiums)
+15. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
 
@@ -217,6 +218,21 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
+
+##Dual License
+
+####Pros
+* Business model aligned with something people are willing to pay for
+* Can scale well if successful
+
+####Cons
+* Can be at odds with making software freely accessible
+* “Two tiers” of product support can make free users unhappy
+* Project needs to be big enough that customer need exists
+
+####Case Studies
+* [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
+* [SQLite](https://www.sqlite.org/copyright.html)
 
 ##Open core
 
