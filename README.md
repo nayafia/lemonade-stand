@@ -81,6 +81,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [YDKJS book series by getify (personal effort)](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
 * [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
 
 ##Crowdfunding (recurring)
