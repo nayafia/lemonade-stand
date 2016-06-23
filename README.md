@@ -31,6 +31,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
 ## Donation button
+*Stick a donation button on your site. Stripe and PayPal are examples of services you can use to accept donations.*
 
 #### Pros
 * Few strings attached
@@ -47,6 +48,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Transmission](https://www.transmissionbt.com/)
 
 ##Bounties
+*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
 
 ####Pros
 * Open to community participation
@@ -63,6 +65,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ##Crowdfunding (one-time)
+*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
 
 ####Pros
 * Few strings attached
@@ -81,6 +84,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
 
 ##Crowdfunding (recurring)
+*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
 
 ####Pros
 * Few strings attached
@@ -88,7 +92,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Cons
 * Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
-* Usually has to be tied to concrete outcome, perks
+* Harder to explain concrete outcomes, perks that come with recurring donations
 * Usually not that much money (~$1-4K monthly)
 * Companies not always comfortable donating to campaigns
 
@@ -97,8 +101,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
+* [Ruby Together](https://rubytogether.org)
 
 ##Books and merchandise
+*If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
 
 ####Pros
 * Outcome not tied to project work itself, so you retain creative freedom
@@ -116,6 +122,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
 
 ##Advertising & sponsorships
+*If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
@@ -130,6 +137,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Hoodie](http://hood.ie/sponsoring/)
 
 ##Get hired by a company to work on project
+*Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
 
 ####Pros
 * Taps into those who have resources (i.e. companies)
@@ -150,6 +158,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 ##Start a project while currently employed
+*Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
+
+*If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
 
 ####Pros
 * Freedom to test new ideas without worrying about salary
@@ -168,6 +179,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 
 ##Grants
+*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+
+*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
 
 ####Pros
 * Fewer strings attached
@@ -181,9 +195,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 ####Case Studies
 * [Dat](https://usopendata.org/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
-* [Django and Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
+* [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulting & services
+*Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
+
+*If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
@@ -200,6 +217,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [OpenSSL](http://openssl.com/what.html)
 
 ##SaaS
+*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself is open source, but you might offer additional paid services that make it easier for people to use your project. One common example of a paid service is charging for hosting.*
 
 ####Pros
 * Can build community around open project and make money off of services for hosting
@@ -220,6 +238,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Ghost](https://ghost.org/)
 
 ##Dual License
+*Sometimes, projects offer an identical codebase with two different licenses: one that is commercially-friendly, and one that is less so (ex. GPL). The latter is free for anyone to use, but companies pay for the commercial license in order to have legal peace of mind.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
@@ -227,7 +246,6 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ####Cons
 * Can be at odds with making software freely accessible
-* “Two tiers” of product support can make free users unhappy
 * Project needs to be big enough that customer need exists
 
 ####Case Studies
@@ -235,13 +253,14 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [SQLite](https://www.sqlite.org/copyright.html)
 
 ##Open core
+*Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
 
 ####Pros
 * Business model aligned with something people are willing to pay for
 * Can scale well if successful
 
 ####Cons
-* Need to have something you can charge for (which often means making certain features exclusive)
+* Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
 
@@ -252,6 +271,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Sidekiq](http://sidekiq.org/)
 
 ##Foundations & consortiums
+*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501c3 (nonprofit) or 501c6 (trade consortium). Many software foundations are 501c6 because 501c3s require demonstrating a charitable purpose, which can be more difficult in software.*
 
 ####Pros
 * Neutrality. Foundation protects the code and helps steward community
@@ -269,6 +289,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
 
 ##Venture capital
+*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitaists take equity (a percent ownership in your business) in exchange for funding. The tradeoff is that unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+
+*Venture capital is "high risk high reward": VCs are more risk tolerant than, say, a bank, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
 
 ####Pros
 * Institutional support can be helpful for growing a business
