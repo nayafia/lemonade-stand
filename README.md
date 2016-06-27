@@ -26,7 +26,8 @@ The categories are not mutually exclusive. For example, a project might have a f
 14. [Foundations & consortiums](#foundations--consortiums)
 15. [Venture capital](#venture-capital)
 
-APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
+APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
+TRANSLATIONS: [Chinese](https://github.com/wizicer/FinancialSupportForOpenSource)
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
