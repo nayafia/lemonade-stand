@@ -40,8 +40,9 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 
 ####Cons
 * Usually not much money unless you have dedicated fundraising efforts
-* Need a legal entity to donate to (ex. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com) are fiscal sponsors for this purpose). Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed
+* Need an entity to accept donations, which may take a fee for doing so.  Examples are Stripe and PayPal.
+* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [SFC](http://sfconservancy.org) and [NumFOCUS](http://www.numfocus.org) are examples. Harder for individuals or international donations to manage
+* Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
 
 ####Case Studies
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
