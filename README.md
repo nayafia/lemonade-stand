@@ -1,9 +1,13 @@
 # A handy guide to financial support for open source.
 *"I do open source work, how do I find funding?"*
 
+*"How can we find funding for our open source project?"*
+
 Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
+
+In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for project that want to find funding for their project/team.  (All but 2. [Bounties](#bounties), 7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project), 8. [Start a project while currently employed](#start-a-project-while-currently-employed))
 
 
 ---
@@ -274,7 +278,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * [Sidekiq](http://sidekiq.org/)
 
 ##Foundations & consortiums
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501c3 (nonprofit) or 501c6 (trade consortium). Many software foundations are 501c6 because 501c3s require demonstrating a charitable purpose, which can be more difficult in software.*
+*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3)s require demonstrating a charitable purpose, which can be more difficult in software.*
 
 ####Pros
 * Neutrality. Foundation protects the code and helps steward community
@@ -283,7 +287,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 
 ####Cons
 * Only really worth it for big projects
-* Difficult to set up for IRS reasons (many do 501c6 instead of 501c3), restrictions on what you can do
+* Difficult to set up for IRS reasons (many do 501(c)(6) instead of 501(c)(3)), restrictions on what you can do
 * Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
 
 ####Case Studies
