@@ -1,10 +1,13 @@
 # A handy guide to financial support for open source.
 *"I do open source work, how do I find funding?"*
+
 *"How can I find funding for my open source project?"*
 
 Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
+
+In addition to suggesting ways that individual developers can get paid for their work, most of these categories are useful for project that want to find funding for their project/team.  (All but 2. [Bounties](#bounties), 7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project), 8. [Start a project while currently employed](#start-a-project-while-currently-employed))
 
 
 ---
