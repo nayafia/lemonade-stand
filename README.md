@@ -274,7 +274,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * [Sidekiq](http://sidekiq.org/)
 
 ##Foundations & consortiums
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501c3 (nonprofit) or 501c6 (trade consortium). Many software foundations are 501c6 because 501c3s require demonstrating a charitable purpose, which can be more difficult in software.*
+*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
 
 ####Pros
 * Neutrality. Foundation protects the code and helps steward community
@@ -283,7 +283,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 
 ####Cons
 * Only really worth it for big projects
-* Difficult to set up for IRS reasons (many do 501c6 instead of 501c3), restrictions on what you can do
+* Difficult to set up for IRS reasons (many do 501(c)(6) instead of 501(c)(3)), restrictions on what you can do
 * Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
 
 ####Case Studies
