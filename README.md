@@ -83,7 +83,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
-* [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
+* [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 
 ##Crowdfunding (recurring)
 *If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
