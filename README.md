@@ -236,7 +236,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * [WordPress.com](http://wordpress.com/)
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
-* [Gitlab](http://gitlab.com)
+* [GitLab](https://gitlab.com)
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
