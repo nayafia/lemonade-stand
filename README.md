@@ -21,10 +21,11 @@ The categories are not mutually exclusive. For example, a project might have a f
 9. [Grants](#grants)
 10. [Consulting & services](#consulting--services)
 11. [SaaS](#saas)
-12. [Dual license](#dual-license)
-13. [Open core](#open-core)
-14. [Foundations & consortiums](#foundations--consortiums)
-15. [Venture capital](#venture-capital)
+12. [Freemium license](#freemium-license)
+13. [Dual license](#dual-license)
+14. [Open core](#open-core)
+15. [Foundations & consortiums](#foundations--consortiums)
+16. [Venture capital](#venture-capital)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForOpenSource)
@@ -240,6 +241,25 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
+
+##Freemium License
+*"Freemium" licenses are not open source, because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license simultaneously (ex. the source code is not both freely visible AND available to redistribute and modify). Still, they are tangentially related to open source work.*
+
+*A freemium license restricts some open source freedoms to commercial terms. For example, they might make the source code visible, but require a commercial license to use the code.*
+
+####Pros
+* Business model aligned with something people are willing to pay for
+* Potential to scale well if successful
+* Better for end user products
+
+####Cons
+* Not actually open source
+* Still a new area of exploration (though related to the [shareware](https://en.wikipedia.org/wiki/Shareware) movement), not well proven
+
+####Case Studies
+* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
+* [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
+
 
 ##Dual License
 *Sometimes, projects offer an identical codebase with two different licenses: one that is commercially-friendly, and one that is less so (ex. GPL). The latter is free for anyone to use, but companies pay for the commercial license in order to have legal peace of mind.*
