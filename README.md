@@ -292,6 +292,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
+* [Phusion Passenger](https://www.phusionpassenger.com/)
 * [Sidekiq](http://sidekiq.org/)
 
 ##Foundations & consortiums
