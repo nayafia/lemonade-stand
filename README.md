@@ -81,6 +81,7 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 * Companies not always comfortable donating to campaigns
 
 ####Case Studies
+* [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
