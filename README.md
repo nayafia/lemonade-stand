@@ -65,6 +65,8 @@ TRANSLATIONS: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportFo
 
 ####Case Studies
 * [Bountysource](http://bountysource.com)
+* [Internet Bug Bounty](https://internetbugbounty.org/)
+* [Google Patch Rewards](https://static.googleusercontent.com/about/appsecurity/patch-rewards/index.html)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ##Crowdfunding (one-time)
