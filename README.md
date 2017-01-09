@@ -312,6 +312,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
 
 ####Case Studies
+* [Linux Foundation](https://www.linuxfoundation.org/)
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
