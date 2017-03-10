@@ -103,6 +103,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Companies not always comfortable donating to campaigns
 
 ####Case Studies
+* [Vue.js](https://www.patreon.com/evanyou)
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
