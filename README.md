@@ -163,6 +163,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Need large enough audience to justify sponsorships
 * Need to manage trust and transparency with user base (ex. no tracking)
 * Can be a lot of work to find and manage clients
+* Can involve ethical concerns about marketing
+* Can introduce a conflict of interest; making controversial changes could result in losing sponsors/advertisers 
 
 #### Case Studies
 
