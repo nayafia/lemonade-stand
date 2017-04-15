@@ -403,6 +403,22 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
+## Contests and Prizes
+
+*Some structures organize 'prizes' to reward projects in their scope of work. Those are not really Sponsorships per se.*
+
+####Pros
+* Provides visibility
+* Gives an incentive to provide an excellent documentation
+
+####Cons
+* Somehow 'smaller' revenues
+* One-shot
+
+#### Examples
+* [Hackaday prizes](https://hackaday.io/prize) for open hardware
+
+
 ---
 
 ### Contributing to this guide
