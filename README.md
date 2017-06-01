@@ -53,6 +53,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
+* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 
 ## Bounties
 
