@@ -123,6 +123,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Vue.js](https://www.patreon.com/evanyou)
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
+* [GnuPG](https://www.gnupg.org/donate/index.html)
 * [jsbin](https://gratipay.com/jsbin/)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
