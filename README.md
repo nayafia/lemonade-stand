@@ -359,6 +359,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Mesosphere](https://mesosphere.com/)
 * [Phusion Passenger](https://www.phusionpassenger.com/)
 * [Sidekiq](http://sidekiq.org/)
+* [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
 
 ## Foundations & consortiums
 
