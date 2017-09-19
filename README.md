@@ -172,6 +172,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
+* [Code Sponsor](https://codesponsor.io)
 
 ## Get hired by a company to work on project
 
