@@ -75,7 +75,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * [Bountysource](http://bountysource.com)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
-* [Google Patch Rewards](https://static.googleusercontent.com/about/appsecurity/patch-rewards/index.html)
+* [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ## Crowdfunding (one-time)
