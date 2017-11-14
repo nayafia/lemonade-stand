@@ -127,6 +127,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [jsbin](https://gratipay.com/jsbin/)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
+* [Clojurists Together](https://clojuriststogether.org)
 
 ## Books and merchandise
 
