@@ -271,6 +271,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Varnish Moral License](http://phk.freebsd.dk/VML/)
 * [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
 * [OpenSSL](http://openssl.com/what.html)
