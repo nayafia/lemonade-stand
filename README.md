@@ -307,13 +307,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Pros
 
-* Effective for income if the project happens to have the sort of users (or potential users) interested in the paid license
+* Business model aligned with something people are willing to pay for
 * Can scale well if successful
 
 #### Cons
 
 * Can be at odds with making software freely accessible
 * Project needs to be big enough that customer need exists
+* Only works for upstream projects that are used in downstream proprietary software
 
 #### Case Studies
 
@@ -326,7 +327,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Pros
 
-* Proven business model
+* Business model aligned with something people are willing to pay for
 * Can scale well if successful
 
 #### Cons
@@ -391,21 +392,18 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
-## Shared source (non-Open-Source)
+## Shared source
 
-*Some projects partially open their software but remain **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition). For example, a license might restrict some open source freedoms to non-commercial uses. Or they might make the source code available but under legal terms dthat o not allow modification or redistribution of modified versions.
+*Shared source licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. With shared source, the source code code is available (either publicly or at least to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially, and so on. Still, they are tangentially related to open source work.*
 
 #### Pros
 
-* Proprietary licensing is a proven business model
+* Business model aligned with something people are willing to pay for
 * Potential to scale well if successful
-* A middle-ground between completely closed (unauditable, no way for outsiders to contribute) software and true Open Source software
 
 #### Cons
 
-* Not actually open source
-* Criticized in the open source community as a return to the [shareware](https://en.wikipedia.org/wiki/Shareware) movement
-* Less adoption by open source community may mean less of the benefits
+* Not actually open source (so may fail to achieve many or most of the benefits of open source)
 
 #### Case Studies
 
