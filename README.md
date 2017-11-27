@@ -26,6 +26,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 14. [Open core](#open-core)
 15. [Foundations & consortiums](#foundations--consortiums)
 16. [Venture capital](#venture-capital)
+17. [Crypto Currency Mining Donation button](#crypto-currency-mining-donation-button)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
@@ -412,6 +413,25 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
+
+## Crypto Currency Mining Donation button
+
+* Stick a crypto currency mining donation button on your site. [Open Source Citizen](http://opensourcecitizen.org) is an example service you can use to let donors mine crypto currency on your project's behalf.
+
+#### Pros
+
+* Few strings attached
+* Little work involved: "set it and forget it"
+* Possibility of the crypto currency rising in value
+* Works worldwide. Donors don't need a credit card or even a bank account.
+* No entity needed to accept donations. Deposits straight to your crypto currency wallet.
+
+#### Cons
+
+* Must be converted to your currency of choice
+* Usually not much money unless you have dedicated fundraising efforts
+* Tax nebulous - depending on your jurisdiction. Most jurisdictions have ruled crypto currency mining as not taxable.
+* Possibility of the crypto currency dropping in value
 
 ---
 
