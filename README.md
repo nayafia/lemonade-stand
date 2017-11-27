@@ -73,6 +73,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Gitcoin](https://gitcoin.co/explorer)
 * [Bountysource](http://bountysource.com)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
 * [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
