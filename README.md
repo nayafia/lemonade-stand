@@ -317,6 +317,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Not actually open source
 * Still a new area of exploration (though related to the [shareware](https://en.wikipedia.org/wiki/Shareware) movement), not well proven
+* Charging for use may negatively impact adoption
 
 #### Case Studies
 
