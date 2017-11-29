@@ -394,7 +394,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Shared source
 
-*Shared source licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. With shared source, the source code code is available (either publicly or at least to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially, and so on. Still, they are tangentially related to open source work.*
+*Shared source licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. With shared source, the source code is available (either publicly or at least to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially, and so on. Still, they are tangentially related to open source work.*
 
 #### Pros
 
