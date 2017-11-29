@@ -324,6 +324,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Faircode](https://faircode.io), used by [Ungit](https://github.com/FredrikNoren/ungit)
 
 
 ## Dual License
