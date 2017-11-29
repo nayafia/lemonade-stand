@@ -261,6 +261,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Business model aligned with something people are willing to pay for
+* Features paid by consulting work can be added back to the product
+* Opportunity to learn new use-cases and interact with end-users
 
 #### Cons
 
@@ -285,11 +287,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Can build community around open project and make money off of services for hosting
 * Allows open source project to focus on users and as needs grow to help enterprises adopt the project
 * Can scale by number of users
+* If this works, this can create stable subscription revenue so you are not dependant on consulting/customizing
 
 #### Cons
 
-* Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
+* Often means the hosting needs to be cheaper than hiring a dev to run the project for you
 * “Two tiers” of product support can make free users unhappy
+* Very hard to build a sustainable SAAS revenue initially, especially for non simplistic products
+* Have to build a fully multi-tenant architecture along with signups, which might mean additional engineering
 
 #### Case Studies
 
@@ -300,6 +305,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
+* [ERPNext](https://erpnext.com/)
 
 ## Freemium License
 
@@ -359,6 +365,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
+* Perverse incentive to not contribute to the project and keep features in the "paid" tier
 
 #### Case Studies
 
@@ -391,6 +398,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
+* [ERPNext Foundation](https://erpnext.org)
 
 ## Venture capital
 
