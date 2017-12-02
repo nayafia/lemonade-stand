@@ -303,7 +303,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Dual License
 
-*Sometimes, projects offer an identical codebase with two different licenses: one that allows proprietary derivatives (which matters to developers of proprietary down-stream software) and one requires derivatives to keep the license (a.k.a. "copyleft", such as GPL). Although everyone may use the latter version, companies pay for the proprietary license in order to be relieved of the copyleft requirements.*
+*The primary revenue for many software companies comes from selling proprietary licenses. Those companies can include permissively licensed code (such as MIT or Apache 2.0) in their software, but they cannot include code under copyeft licenses (like the GPL) because that would require them to keep the same copyleft terms for their end products. So, some open source projects use a dual-license approach: they publish with copyleft licensing for anyone happy with that and sell proprietary commercial licenses to companies who want to bypass the copyleft requirements.*
 
 #### Pros
 
@@ -314,7 +314,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Can be at odds with making software freely accessible
 * Project needs to be big enough that customer need exists
-* Only works for upstream projects that are used in downstream proprietary software
+* Only works well for upstream software like to be used in downstream proprietary software
+* Requires a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary commercial license
 
 #### Case Studies
 
@@ -334,6 +335,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
+* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
 
 #### Case Studies
 
