@@ -76,10 +76,12 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Bountysource](https://bountysource.com)
+* [Gitcoin](https://gitcoin.co/explorer)
+* [Bountysource](http://bountysource.com)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
 * [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
+* [Status Open Bounty](https://openbounty.status.im/)
 
 ## Crowdfunding (one-time)
 
@@ -129,6 +131,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [GnuPG](https://www.gnupg.org/donate/index.html)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
+* [Clojurists Together](https://clojuriststogether.org)
 
 ## Books and merchandise
 
@@ -271,6 +274,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Varnish Moral License](http://phk.freebsd.dk/VML/)
 * [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
 * [OpenSSL](http://openssl.com/what.html)
@@ -411,6 +415,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
+* [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Faircode](https://faircode.io), used by [Ungit](https://github.com/FredrikNoren/ungit)
+
 
 ---
 
