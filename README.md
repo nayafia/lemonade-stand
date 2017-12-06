@@ -1,9 +1,11 @@
 # A handy guide to financial support for open source.
 *"I do open source work, how do I find funding?"*
 
-Below I've listed every way I know of that people get paid for open source work, roughly ordered from small to large. Each funding category links to several real examples. (Wherever possible, I've tried to link to a useful article or page instead of just a homepage.)
+This document aims to provide an exhaustive list of all the ways that people get paid for open source work. Hopefully, projects and contributors will find this helpful in figuring out the best options for them.
 
-The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
+The list below is roughly ordered from small to large. Each funding category links to several real examples (using topical articles or pages wherever possible instead of just a project's homepage.)
+
+The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. 
 
 
 ---
@@ -45,7 +47,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Usually not much money unless you have dedicated fundraising efforts
 * Need an entity to accept donations, which may take a fee for doing so.  Examples are Stripe and PayPal.
-* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com), and [NumFOCUS](http://www.numfocus.org) are examples. Harder for individuals or international donations to manage
+* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [SFC](https://sfconservancy.org) and [NumFOCUS](https://www.numfocus.org) are examples. Harder for individuals or international donations to manage
 * Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
 
 #### Case Studies
@@ -68,6 +70,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Can create perverse incentives in a project (low quality PRs, distracting priorities)
+* Conflicts can arise over whether work fulfills a bounty
 * Usually not much money per bounty (~<$500)
 * Doesn’t provide recurring revenue
 
@@ -87,7 +90,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Kickstarter](https://kickstarter.com/)
+* Can be easier for an individual to legally manage via, e.g. [Kickstarter](https://kickstarter.com/)
 
 #### Cons
 
@@ -111,7 +114,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
+* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com)
 
 #### Cons
 
@@ -126,7 +129,6 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [GnuPG](https://www.gnupg.org/donate/index.html)
-* [jsbin](https://gratipay.com/jsbin/)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
 * [Clojurists Together](https://clojuriststogether.org)
@@ -176,6 +178,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
 * [Code Sponsor](https://codesponsor.io)
+* [GitFund](https://gitfund.io)
 
 ## Get hired by a company to work on project
 
@@ -278,7 +281,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## SaaS
 
-*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself is open source, but you might offer additional paid services that make it easier for people to use your project. One common example of a paid service is charging for hosting.*
+*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself can remain open source, but you offer paid services such as charging for use of a main hosted site or for handling the hosting of dedicated instances for customers. Typically, paying customers also get priority support.*
 
 #### Pros
 
@@ -293,43 +296,18 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [WordPress.com](http://wordpress.com/)
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
-* [GitLab](https://gitlab.com)
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
-* [Ghost](https://ghost.org/)
-
-## Freemium License
-
-*"Freemium" licenses are not open source, because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license simultaneously (ex. the source code is not both freely visible AND available to redistribute and modify). Still, they are tangentially related to open source work.*
-
-*A freemium license restricts some open source freedoms to commercial terms. For example, they might make the source code visible, but require a commercial license to use the code.*
-
-#### Pros
-
-* Business model aligned with something people are willing to pay for
-* Potential to scale well if successful
-* Better for end user products
-
-#### Cons
-
-* Not actually open source
-* Still a new area of exploration (though related to the [shareware](https://en.wikipedia.org/wiki/Shareware) movement), not well proven
-* Charging for use may negatively impact adoption
-
-#### Case Studies
-
-* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
-* [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
-* [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
-* [Faircode](https://faircode.io), used by [Ungit](https://github.com/FredrikNoren/ungit)
-
+* [WordPress.com](http://wordpress.com/)
+* [Discourse](https://www.discourse.org/)
+* [Ghost](https://ghost.org/about/)
+* [GitLab](https://gitlab.com) (also uses open core licensing)
 
 ## Dual License
 
-*Sometimes, projects offer an identical codebase with two different licenses: one that is commercially-friendly, and one that is less so (ex. GPL). The latter is free for anyone to use, but companies pay for the commercial license in order to have legal peace of mind.*
+*The primary revenue for many software companies comes from selling proprietary licenses. Those companies can include permissively licensed code (such as MIT or Apache 2.0) in their software, but they cannot include code under copyeft licenses (like the GPL) because that would require them to keep the same copyleft terms for their end products. So, some open source projects use a dual-license approach: they publish with copyleft licensing for anyone happy with that and sell proprietary commercial licenses to companies who want to bypass the copyleft requirements.*
 
 #### Pros
 
@@ -340,6 +318,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Can be at odds with making software freely accessible
 * Project needs to be big enough that customer need exists
+* Only works well for upstream software like to be used in downstream proprietary software
+* Requires a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary commercial license
 
 #### Case Studies
 
@@ -359,6 +339,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
+* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
 
 #### Case Studies
 
@@ -368,6 +349,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Phusion Passenger](https://www.phusionpassenger.com/)
 * [Sidekiq](http://sidekiq.org/)
 * [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
+* [GitLab](https://about.gitlab.com/)
 
 ## Foundations & consortiums
 
@@ -394,9 +376,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Venture capital
 
-*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding. The tradeoff is that unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding. Unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
 
-*Venture capital is "high risk high reward": VCs are more risk tolerant than, say, a bank, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
+*Venture capital is "high risk high reward": VCs are more risk tolerant than banks, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably in Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
 
 #### Pros
 
@@ -405,8 +387,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Cons
 
-* Venture capital comes with expectations of an exit (i.e. returning the money to investors at a multiple). History suggests this is structurally difficult to achieve for open source businesses
+* Venture capital comes with expectations of an exit (i.e. returning the money to investors at a multiple). History suggests this is structurally difficult to achieve for open source businesses. Venture Capital isn't actually a business model but only investment capital for those who have some *other* business model for future revenue.
 * Venture capital can change motivations and distract from priorities
+* Unavailable to non-profits
 
 #### Case Studies
 
@@ -415,11 +398,32 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
+## Shared source
+
+*Shared source licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. With shared source, the source code is available (either publicly or at least to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially, and so on. Still, they are tangentially related to open source work.*
+
+#### Pros
+
+* Business model aligned with something people are willing to pay for
+* Potential to scale well if successful
+
+#### Cons
+
+* Not actually open source (so may fail to achieve many or most of the benefits of open source)
+
+#### Case Studies
+
+* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
+* [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
+* [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Faircode](https://faircode.io), used by [Ungit](https://github.com/FredrikNoren/ungit)
+
+
 ---
 
 ### Contributing to this guide
 
-I wrote up this guide to aggregate knowledge off the top of my head, but I'm not planning to make major contributions or changes. I recognize the pros/cons are somewhat subjective, but they reflect my views.
+I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
 
 If something is factually incorrect (especially with a case study example), I welcome your edits. Also, if there's a category you know of that I missed, I would also welcome that addition.
 
