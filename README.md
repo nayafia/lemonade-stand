@@ -307,7 +307,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Dual License
 
-*The primary revenue for many software companies comes from selling proprietary licenses. Those companies can include permissively licensed code (such as MIT or Apache 2.0) in their software, but they cannot include code under copyeft licenses (like the GPL) because that would require them to keep the same copyleft terms for their end products. So, some open source projects use a dual-license approach: they publish with copyleft licensing for anyone happy with that and sell proprietary commercial licenses to companies who want to bypass the copyleft requirements.*
+*Companies prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a dual-license approach: the default project license is copyleft, but they sell either proprietary or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
 
 #### Pros
 
@@ -318,8 +318,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Can be at odds with making software freely accessible
 * Project needs to be big enough that customer need exists
-* Only works well for upstream software like to be used in downstream proprietary software
-* Requires a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary commercial license
+* Only works for upstream software that's being used in downstream software
 
 #### Case Studies
 
