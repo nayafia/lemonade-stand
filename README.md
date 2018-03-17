@@ -320,12 +320,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Can be at odds with making software freely accessible
 * Project needs to be big enough that customer need exists
 * Only works for upstream software that's being used in downstream software
+* There can be legal or monetary barriers to moving code from open to proprietary 
 
 #### Case Studies
 
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [SQLite](https://www.sqlite.org/copyright.html)
 * [Metafizzy](https://metafizzy.co) (ex. [Isotope](https://isotope.metafizzy.co/license.html), [Flickity](https://flickity.metafizzy.co/license.html))
+* [Qt](https://www1.qt.io/faq/#_Toc_3)
 
 ## Open core
 
