@@ -107,6 +107,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 * [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
+* [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
 
 ## Crowdfunding (recurring)
 
