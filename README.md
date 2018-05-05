@@ -294,7 +294,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay for support
+* Project needs to be sufficiently popular that people are willing to pay
 * Maintainers don't necessarily want to offer professional support
 
 #### Case Studies
