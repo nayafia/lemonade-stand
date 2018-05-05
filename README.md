@@ -21,13 +21,14 @@ The categories are not mutually exclusive. For example, a project might have a f
 7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
 8. [Start a project while currently employed](#start-a-project-while-currently-employed)
 9. [Grants](#grants)
-10. [Consulting & services](#consulting--services)
-11. [SaaS](#saas)
-12. [Dual license](#dual-license)
-13. [Open core](#open-core)
-14. [Foundations & consortiums](#foundations--consortiums)
-15. [Venture capital](#venture-capital)
-16. [Shared source](#shared-source)
+10. [Consulting](#consulting)
+11. [Paid support](#paid-support)
+12. [SaaS](#saas)
+13. [Dual license](#dual-license)
+14. [Open core](#open-core)
+15. [Foundations & consortiums](#foundations--consortiums)
+16. [Venture capital](#venture-capital)
+17. [Shared source](#shared-source)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
@@ -258,7 +259,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 
-## Consulting & services
+## Consulting
 
 *Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
 
@@ -282,6 +283,26 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Baroque Software](http://baroquesoftware.com/)
 * [OpenSSL](http://openssl.com/what.html)
 
+## Paid support
+
+*In this model, the code is freely available, but users need to pay to receive support from the project's maintainers. That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).
+
+#### Pros
+
+* Business model aligned with something people are willing to pay for
+
+#### Cons
+
+* Can be at odds with making software simple to use
+* Project needs to be sufficiently popular that people are willing to pay
+* Maintainers don't necessarily want to offer professional support
+
+#### Case Studies
+
+* [Prism](https://www.patreon.com/prismlibrary) - supporting their Patreon gives you access to their community Slack channel for project support
+* [Tidelift paid subscriptions](https://tidelift.com/subscription)
+* [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
+
 ## SaaS
 
 *SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself can remain open source, but you offer paid services such as charging for use of a main hosted site or for handling the hosting of dedicated instances for customers. Typically, paying customers also get priority support.*
@@ -299,7 +320,6 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Prism](https://www.patreon.com/prismlibrary) - supporting their Patreon gives you access to their community Slack channel for project support
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
 * [Sentry](https://getsentry.com/)
