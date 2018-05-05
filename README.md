@@ -127,9 +127,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Vue.js](https://www.patreon.com/evanyou)
-* [MochaJS](https://opencollective.com/mochajs)
-* [React-boilerplate](https://opencollective.com/react-boilerplate)
+* [Evan You + Vue.js Patreon](https://www.patreon.com/evanyou)
+* [Eran Hammer + hapi Patreon](https://www.patreon.com/eranhammer)
+* [webpack](https://opencollective.com/webpack)
+* [Babel](https://opencollective.com/babel)
 * [GnuPG](https://www.gnupg.org/donate/index.html)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
@@ -298,6 +299,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Prism](https://www.patreon.com/prismlibrary) - supporting their Patreon gives you access to their community Slack channel for project support
 * [Moodle](https://moodle.org/)
 * [Forge Laravel](https://forge.laravel.com/)
 * [Sentry](https://getsentry.com/)
