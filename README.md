@@ -28,7 +28,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 14. [Open core](#open-core)
 15. [Foundations & consortiums](#foundations--consortiums)
 16. [Venture capital](#venture-capital)
-17. [Shared source](#shared-source)
+17. [Restricted license](#restricted-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
@@ -427,9 +427,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
 
-## Shared source
+## Restricted license
 
-*Shared source licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. With shared source, the source code is available (either publicly or at least to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially, and so on. Still, they are tangentially related to open source work.*
+*Restricted licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet [the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. The source code is made available (either publicly, or to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially.*
 
 #### Pros
 
@@ -439,12 +439,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Not actually open source (so may fail to achieve many or most of the benefits of open source)
+* Can be controversial, erode community trust
 
 #### Case Studies
 
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
 
 
