@@ -255,7 +255,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Handshake community grant program](https://handshake.org)
-* [Dat](https://datproject.org/) ([funding history blog post](https://blog.datproject.org/2017/09/15/dat-funding-history/))
+* [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Libraries.io grant applications](https://github.com/librariesio/supporters)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
