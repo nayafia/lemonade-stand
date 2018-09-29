@@ -24,7 +24,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 10. [Consulting](#consulting)
 11. [Paid support](#paid-support)
 12. [SaaS](#saas)
-13. [Dual license](#dual-license)
+13. [Copyleft + paid license](#copyleft--paid-license)
 14. [Open core](#open-core)
 15. [Foundations & consortiums](#foundations--consortiums)
 16. [Venture capital](#venture-capital)
@@ -331,9 +331,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Ghost](https://ghost.org/about/)
 * [GitLab](https://gitlab.com) (also uses open core licensing)
 
-## Dual License
+## Copyleft + paid license
 
-*Companies prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a dual-license approach: the default project license is copyleft, but they sell either proprietary or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
+*Companies selling proprietary software prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a copyleft license by default, but they sell license exceptions, proprietary licenses, or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
 
 #### Pros
 
