@@ -77,6 +77,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [IssueHunt](https://issuehunt.io)
 * [Gitcoin](https://gitcoin.co/explorer)
 * [Bountysource](http://bountysource.com)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
