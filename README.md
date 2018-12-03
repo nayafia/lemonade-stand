@@ -461,7 +461,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
 
-If something is factually incorrect (especially with a case study example), I welcome your edits. Also, if there's a category you know of that I missed, I would also welcome that addition.
+If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would also welcome that addition.
 
 ### License and attribution
 
