@@ -304,6 +304,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Fody](https://github.com/Fody/Fody/blob/master/readme.md): Must be a Patreon supporter to open an issue or pull request
 * [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
 * [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
 * [Tidelift paid subscriptions](https://tidelift.com/subscription)
