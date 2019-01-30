@@ -238,7 +238,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Grants
 
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+*Grants are monetary gifts that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
 
 *Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
 
@@ -263,6 +263,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Handshake community grant program](https://handshake.org)
 * [Libraries.io grant applications](https://github.com/librariesio/supporters)
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
+* [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
 
 ## Consulting
 
