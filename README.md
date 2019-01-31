@@ -1,81 +1,83 @@
-# A handy guide to financial support for open source.
-*"I do open source work, how do I find funding?"*
+# Карманное руководство по методам финансирования открытого программного обеспечения.
+*"Я делаю открытое ПО, как мне получить финансирование?"*
 
-This document aims to provide an exhaustive list of all the ways that people get paid for open source work. Hopefully, projects and contributors will find this helpful in figuring out the best options for them.
+Цель этого документа - составить исчерпывающий список методов, которыми люди зарабатывают на работе над открытым ПО. 
+Надеюсь, что проекты и разработчики с его помощью смогут найти самый подходящий для себя метод.
 
-The list below is roughly ordered from small to large. Each funding category links to several real examples (using topical articles or pages wherever possible instead of just a project's homepage.)
+Список приблизительно упорядочен по возрастанию. 
+Каждая категория содержит ссылку на несколько реально существующих примеров (по возможности не на вебсайт проекта, а на статьи о нём).
 
-The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. 
-
+Категории не являются взаимоисключающими. К примеру, у проекта может быть фонд, но он также может использовать краудфандинг чтобы собрать средства. Какой-нибудь другой проект может консультировать и пользоваться кнопкой "пожертвовать", и так далее.
 
 ---
 
 
-# Table of Contents
-1. [Donation button](#donation-button)
-2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
-6. [Advertising & sponsorships](#advertising--sponsorships)
-7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-8. [Start a project while currently employed](#start-a-project-while-currently-employed)
-9. [Grants](#grants)
-10. [Consulting](#consulting)
-11. [Paid support](#paid-support)
-12. [SaaS](#saas)
-13. [Copyleft + paid license](#copyleft--paid-license)
-14. [Open core](#open-core)
-15. [Foundations & consortiums](#foundations--consortiums)
-16. [Venture capital](#venture-capital)
-17. [Restricted license](#restricted-license)
+# Содержание
+1. [Кнопка пожертвований](#donation-button)
+2. [Баунти-кампании](#bounties)
+3. [Краудфандинг (проектный)](#crowdfunding-one-time)
+4. [Краудфандинг (регулярный)](#crowdfunding-recurring)
+5. [Книги и мерчендайз](#books-and-merchandise)
+6. [Реклама и спонсорство](#advertising--sponsorships)
+7. [Найм в компанию для работы над проектом](#get-hired-by-a-company-to-work-on-project)
+8. [Начать проект, будучи занятым в компании](#start-a-project-while-currently-employed)
+9. [Гранты](#grants)
+10. [Консалтинг](#consulting)
+11. [Платная поддержка](#paid-support)
+12. [SaaS (программное обеспечение как услуга)](#saas)
+13. [Копилефт + платная лицензия](#copyleft--paid-license)
+14. [Модель с открытым ядром](#open-core)
+15. [Фонды и консорциумы](#foundations--consortiums)
+16. [Венчурный капитал](#venture-capital)
+17. [Ограниченная лицензия](#restricted-license)
 
-APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
-TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Spanish(español)](https://github.com/fredbesan/lemonade-stand)
+ПРИЛОЖЕНИЕ: [Сделать вклад в это руководство](#contributing-to-this-guide) // [Лицензия и атрибуция](#license-and-attribution)  
+ПЕРЕВОДЫ: [Китайский традиционный(繁體中文)](https://github.com/jserv/lemonade-stand) // [Китайский упрощённый(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Итальянский(italiano)](https://github.com/dakk/lemonade-stand) // [Японский(日本語)](https://github.com/fumikito/lemonade-stand) // [Испанский(español)](https://github.com/fredbesan/lemonade-stand)
 
-**"personal effort" notes when a funding effort was led by an individual, not a project*
+**пометка "личные усилия" значит, что финансирование собиралось не проектом, а отдельным человеком*
 
-## Donation button
+## Кнопка "пожертвовать"
 
-*Stick a donation button on your site. Stripe and PayPal are examples of services you can use to accept donations.*
+*Поместить кнопку "пожертвовать". Stripe и PayPal - примеры сервисов, с помощью которых можно начать принимать пожертвования (в РФ также Киви и Яндекс.Деньги).*
 
-#### Pros
+#### Плюсы
 
-* Few strings attached
-* Little work involved: "set it and forget it"
+* Практически ни к чему не обязывает
+* Несложно установить: "Поставил и забыл"
 
-#### Cons
+#### Минусы
 
-* Usually not much money unless you have dedicated fundraising efforts
-* Need an entity to accept donations, which may take a fee for doing so.  Examples are Stripe and PayPal.
-* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [Software Freedom Conservancy](https://sfconservancy.org) and [NumFOCUS](https://www.numfocus.org) are examples. Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
+* Обычно много денег так не собрать, если это не направлено на конкретную инициативу
+* Нужна организация, которая будет пожертвования принимать, и она может брать за это плату. К примеру, Stripe или PayPal.
+* Чтобы не платить налоговые взносы на пожертвования нужна зарегистрированная благотворительная организация (в США это 501(c)(3) некоммерческое юридическое лицо). [Software Freedom Conservancy](https://sfconservancy.org) и [NumFOCUS](https://www.numfocus.org) - одни из примеров. Физическим лицам и международным кампаниям с этим сложнее.
+* Иногда не до конца понятно, кто в проекте "заслужил" деньги и как они распределяются. С этим могут помочь инструменты вроде [OpenCollective](http://opencollective.com).
 
-#### Case Studies
+#### Кейсы
 
-* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
-* [Git](https://git-scm.com/sfc)
-* [Transmission](https://www.transmissionbt.com/)
-* [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
+* [Защищённый мессенджер ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
+* [Система контроля версий Git](https://git-scm.com/sfc)
+* [Торрент-клиент Transmission](https://www.transmissionbt.com/)
+* [Сетевой фреймворк Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 
-## Bounties
+## Баунти-кампании
 
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
+*Иногда проекты и организации выкладывают задания по разработке открытого ПО с наградами ("исправь этот баг и получи $100). 
+Несколько сайтов из перечня внизу позволяют выкладывать и собирать такие задания.*
 
-#### Pros
+#### Преимущества
 
-* Open to community participation
-* Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
+* Участие открыто для сообщества
+* Деньги даются за выполнение определённой работы (больше похоже на оплату услуги чем на пожертвование)
+* Особенно популярно для задач, связанных с информационной безопасностью
 
-#### Cons
+#### Недостатки
 
-* Can create perverse incentives in a project (low quality PRs, distracting priorities)
-* Conflicts can arise over whether work fulfills a bounty
-* Usually not much money per bounty (~<$500)
-* Doesn’t provide recurring revenue
+* Может искажать мотивацию в проекте (низкокачественные ревью, отвлекающие задачи)
+* Может провоцировать конфликты на почве степени "заслуженности" награды
+* Обычно не приносят много денег за одну задачу (~<$500)
+* Не обеспечивают постоянный доход
 
-#### Case Studies
+#### Кейсы
 
 * [Bountysource](http://bountysource.com)
 * [Gitcoin](https://gitcoin.co/explorer)
@@ -85,49 +87,49 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [IssueHunt](https://issuehunt.io)
 * [Status Open Bounty](https://openbounty.status.im/)
 
-## Crowdfunding (one-time)
+## Краудфандинг (проектный)
 
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+*Если у вас есть конкретная идея, которую вы хотите осуществить (не постоянная проектная работа), одиночная краудфандинговая кампания поможет собрать средства. Пожертвовать могут как физические, так и юридические лица.*
 
-#### Pros
+#### Преимущества
 
-* Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Kickstarter](https://kickstarter.com/)
+* Практически ни к чему не обязывает
+* Физическому лицу может быть проще провести такую кампанию, например через [Kickstarter](https://kickstarter.com/)
 
-#### Cons
+#### Недостатки
 
-* Lots of work involved to market campaign
-* Usually has to be tied to concrete outcome, perks
-* Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+* Маркетинговая кампания потребует больших усилий 
+* Обычно в конце должен быть получен конкретный результат, предоставлены награды пожертвовавшим
+* Обычно не приносит очень много денег (~$50.000 за одну кампанию)
+* Юридическим лицам не всегда удобно жертвовать на такие кампании
 
-#### Case Studies
+#### Кейсы
 
-* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* [Andrew Godwin + Django (личные усилия)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
-* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [ribasushi + CPAN (личные усилия)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 
-## Crowdfunding (recurring)
+## Краудфандинг (регулярный)
 
-*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
+*Если вам нужно финансировать постоянную проектную работу, вы можете настроить регулярный краудфандинг с фиксированным ежемесячным или ежегодным взносом, который продолжается пока донор не откажется от участия. Люди и компании которые пользуются вашим проектом регулярно вполне могут решить помочь с финансированием.*
 
-#### Pros
+#### Преимущества
 
-* Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+* Практически ни к чему не обязывает
+* Может быть юридически удобно для физических лиц [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
 
-#### Cons
+#### Недостатки
 
-* Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
-* Harder to explain concrete outcomes, perks that come with recurring donations
-* Usually not that much money (~$1-4K monthly)
-* Companies not always comfortable donating to campaigns
+* Сложнее привлечь желающих делать регулярные взносы (обычно требует существующего бренда или репутации)
+* Сложнее объяснять результаты работы и придумывать награды за регулярные взносы
+* Обычно не приносит много денег ($1000-$4000 в месяц)
+* Юридическим лицам не всегда удобно участвовать в таких кампаниях
 
-#### Case Studies
+#### Кейсы
 
 * [Babel](https://opencollective.com/babel)
 * [Clojurists Together](https://clojuriststogether.org)
@@ -135,127 +137,127 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Evan You + Vue.js Patreon](https://www.patreon.com/evanyou)
 * [GnuPG](https://www.gnupg.org/donate/index.html)
 * [Ruby Together](https://rubytogether.org)
-* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
+* [Tom Christie + Django REST framework (личные усилия)](https://fund.django-rest-framework.org/topics/funding/)
 * [webpack](https://opencollective.com/webpack)
 
-## Books and merchandise
+## Книги и мерчендайз
 
-*If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
+*Если вы - эксперт в области которую другие люди считают полезной для изучения, вы можете написать и продать книгу или серию книг. Вы также можете найти издателя (вроде O'Reily) или заняться самиздатом. В дополнение к продаже книг, некоторые проекты продают мерч (футболки, худи) в поддержку своих проектов.*
 
-#### Pros
+#### Преимущества
 
-* Outcome not tied to project work itself, so you retain creative freedom
-* Can serve as marketing for the project itself
-* Can be recurring source of revenue after initial development
+* Результат не зависит от самого проекта, что оставляет пространтво для творчества
+* Может служить способом продвижения самого проекта
+* После некоторого развития может превратиться в постоянный источник дохода
 
-#### Cons
+#### Недостатки
 
-* Often not a significant source of revenue
-* Can distract from core development of project
-* Merchandise can have upfront costs
+* Часто не приносит серьёзного дохода
+* Может отвлекать от основной работы над проектом
+* На мерчендайз нужно тратиться заранее
 
-#### Case Studies
+#### Кейсы
 
-* [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
-* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Kyle Simpson + You Don't Know JS (personal effort)](https://github.com/getify/You-Dont-Know-JS)
+* [CocoaPods (финанирование благотворительности)](https://cocoapods.org/socks)
+* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (личные усилия)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Kyle Simpson + You Don't Know JS (личные усилия)](https://github.com/getify/You-Dont-Know-JS)
 * [Lua](https://www.lua.org/pil/)
-* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
+* [Sandi Metz + Practical Object-Oriented Design in Ruby (личные усилия)](http://www.poodr.com/)
 
-## Advertising & sponsorships
+## Реклама и спонсорство
 
-*If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
+*Если у вашего проекта большая аудитория, вы можете продавать рекламу или подписывать спонсорские контракты. Наверняка у вас довольно узкая аудитория (если у вас проект на Python, скорее всего его пользователи технически знакомы с Python), пользуйтесь этим.*
 
-#### Pros
+#### Преимущества
 
-* Business model aligned with something people are willing to pay for
+* Бизнес-модель построена на чём-то, за что люди готовы платить
 
-#### Cons
+#### Недостатки
 
-* Need large enough audience to justify sponsorships
-* Need to manage trust and transparency with user base (ex. no tracking)
-* Can be a lot of work to find and manage clients
-* Can involve ethical concerns about marketing
-* Can introduce a conflict of interest; making controversial changes could result in losing sponsors/advertisers 
+* Для привлечения спонсоров нужна достаточно большая аудитория
+* Нужно управлять доверием пользователей и следить за прозрачностью (никакой слежки)
+* Находить и работать с клиентами требует значительных усилий
+* Могут появиться этические вопросы касательно маркетинга
+* Может возникнуть конфликт интересов; ввод противоречивых изменений может повлечь потерю спонсоров/рекламодателей
 
-#### Case Studies
+#### Кейсы
 
 * [CodeFund](https://codefund.io)
 * [GitFund](https://gitfund.io)
 * [Hoodie](http://hood.ie/sponsoring/)
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 
-## Get hired by a company to work on project
+## Найм в компанию для работы над проектом
 
-*Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
+*Компании иногда нанимают сотрудников для работы над открытым ПО. Найдите компанию, в которой задействован проект, над которым вы работаете. Как другой вариант, если у вас есть идея для проекта, найдите компанию которая будет в этом заинтересована. В таких ситуациях полезно иметь практический опыт, на который можно сослаться.*
 
-#### Pros
+#### Преимущества
 
-* Taps into those who have resources (i.e. companies)
-* Can be well-aligned with company needs
-* Steady income
+* Пользуется ресурсами тех, у кого они есть (компании)
+* Может хорошо соотноситься с нуждами компании
+* Приличный доход
 
-#### Cons
+#### Недостатки
 
-* Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
-* Project already needs to be well-known and used
-* Person not contributing to company’s bottom line, which makes them expendable
-* Governance issues, company could have undue influence over project
-* Can affect project dynamics + balance
+* Обычно должно повезти: нет чёткой, проверенной схемы получения такой работы
+* Проект должен быть уже известен и иметь пользователей
+* Человек на такой должности не приносит прибыли компании, а значит от него легко избавиться
+* Проблемы с управлением, компания может воздействовать на проект
+* Может влиять на динамику и баланс проекта
 
-#### Case Studies
+#### Кейсы
 
-* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
-* [Donald Stufft + Hewlett-Packard and Python packaging (personal effort)](https://twitter.com/dstufft/status/594119386333609984)
-* [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
-* [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
+* [Aaron Patterson + ManageIQ и Ruby, Rails (личные усилия)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
+* [Donald Stufft + Hewlett-Packard и Python packaging (личные усилия)](https://twitter.com/dstufft/status/594119386333609984)
+* [Rich Hickey + Cognitect и Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
+* [Ryan Dahl + Joyent и Node.js (видео на YouTube) (личные усилия)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
-## Start a project while currently employed
+## Начать проект, будучи занятым в компании
 
-*Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
+*Множество проектов по открытому ПО начинались как сторонние проекты наёмных работников. Проект может со временем перерасти компанию, но начать его ещё во время работы может быть отличным способом.*
 
-*If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
+*Если вы хотите попробовать этот метод, убедитесь что вы понимаете правила своей компании касательно работы над открытым ПО. Некоторые компании помогают сотрудникам работать над открытым ПО в рабочее время, некоторые могут отнестись к вашей работе как к проекту компании. Не домысливайте, спросите кого-нибудь из ответственных лиц в вашей компании перед тем как начинать.*
 
-#### Pros
+#### Преимущества
 
-* Freedom to test new ideas without worrying about salary
-* Can be well-aligned with company needs
-* Suitable for newer, experimental ideas
+* Свободное тестирование новых идей без беспокойства о зарплате
+* Может совпадать с нуждами компании
+* Подходит для новых, экспериментальных идей
 
-#### Cons
+#### Недостатки
 
-* Need to do it as a side project or be approved to work on it during salaried time
-* Risk of undue company influence
-* Can lead to complicated governance later down the line
+* Нужно делать в свободное время или добиться разрешения делать в рабочее время
+* Риск воздействия компании на проект
+* Может привести к управленческим осложнениям в будущем
 
-#### Case Studies
+#### Кейсы
 
-* [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
-* [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
-* [Google and Go](https://golang.org/doc/faq#history)
-* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
+* [Facebook и React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
+* [Open source программа Futurice](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
+* [Google и Go](https://golang.org/doc/faq#history)
+* [Mozilla и Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
 
 
-## Grants
+## Гранты
 
-*Grants are monetary gifts that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+*Гранты - денежные дары, которые не требуют возврата. Часто грантодатель получает свою выгоду от выдачи вам гранта, например доступ к вам, демонстрация результата, отчёт о вашей работе или налоговые послабления.*
 
-*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
+*Гранты можно получить из разных источников, таких как компании, софтверные фонды, филантропические организации и правительство. Техническая и юридическая сторона гранта сильно зависит от источника. Например компания может выдать вам "грант", но официально записывать его как инвойс за консалтинг. Филантропический фонд может выдавать гранты только некоммерческим организациям, так что вам придётся такой стать или найти некоммерческую организацию-спонсора. Если гранты вам не знакомы, лучший способ узнать больше о них - пообщаться с кем-нибудь, кто раньше такой получал. Несколько примеров получателей грантов приведены ниже.*
 
-#### Pros
+#### Преимущества
 
-* Fewer strings attached
-* Guaranteed money can help project focus for an unbroken period of time
-* Gives project room to breathe and experiment
+* Почти нет обязательств
+* Гарантированные деньги помогут сфокусироваться на работе над проектом на какое-то время
+* Даёт возможность работать свободно и экспериментировать
 
-#### Cons
+#### Недостатки
 
-* There aren’t many software-related grantmakers (philanthropic, gov’t, corporate)
-* Grants are finite. Still need to find sustainability beyond the life of a grant
+* Не так уж много грантодателей (филантропических, правительственных и корпоративных) выдают гранты разработчикам ПО 
+* Гранты имеют свойство заканчиваться, и после этого придётся искать другие источники дохода
 
-#### Case Studies
+#### Кейсы
 
-* [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
+* [Andrey Petrov + Stripe Open-Source Retreat и urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
 * [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
@@ -265,67 +267,67 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 * [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
 
-## Consulting
+## Консалтинг
 
-*Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
+*Консалтинг может быть достаточно гибким способом финансировать работу над открытым ПО. У вас будет больше свободы в организации рабочего времени (например, консультировать 30 часов в неделю и работать над проектом 10 часов в неделю. Консультанты обычно берут больше за свои рабочие часы, чем работники на зарплате, так как поток задач не такой постоянный, они не получают социальных гарантий и т.д. Если вы собираетесь заниматься такой работой регулярно, может понадобиться организовать ООО).*
 
-*If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
+*Если ваш проект популярен, вы можете предлагать консалтинг и услуги по самому проекту. Например клиент может заплатить вам за разработку его проекта, разработку чего-нибудь специального или за обучение пользованию проектом.*
 
-#### Pros
+#### Преимущества
 
-* Business model aligned with something people are willing to pay for
+* Бизнес-модель построёна на том, за что люди готовы платить
 
-#### Cons
+#### Недостатки
 
-* Consulting requires human power, doesn’t scale well (except for rare outliers)
-* Business needs can distract from writing code or other tasks related to the project itself
-* Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay for related services
+* Требует рабочей силы и плохо масштабируется (за редким исключением)
+* Задачи бизнеса могут отвлекать от написания кода или выполнения проектных задач
+* Может вступить в конфликт с необходимостью разработки простого для использования софта
+* Проект должен быть достаточно популярен чтобы люди были готовы платить за связанные с ним услуги
 
-#### Case Studies
+#### Кейсы
 
 * [Baroque Software](http://baroquesoftware.com/)
 * [Neighbourhoodie](https://neighbourhood.ie/)
 * [OpenSSL](http://openssl.com/what.html)
 * [Varnish Moral License](http://phk.freebsd.dk/VML/)
 
-## Paid support
+## Платная поддержка
 
-*In this model, the code is freely available, but users need to pay to receive support from the project's maintainers. That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).*
+*В этой модели код доступен свободно, но пользователи должны заплатить чтобы получить поддержку от поддерживающих проект разработчиков. Это может включать плату за доступ к системе отслеживания ошибок, офисным часам, Slack сообщества или к SLA (соглашение об уровне предоставления услуги).*
 
-#### Pros
+#### Преимущества
 
-* Business model aligned with something people are willing to pay for
+* Бизнес-модель построена на том, за что люди готовы платить
 
-#### Cons
+#### Недостатки
 
-* Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay
-* Maintainers don't necessarily want to offer professional support
+* Может вступить в конфликт с необходимостью разработки простого для использования софта
+* Проект должен быть достаточно популярен чтобы люди были готовы платить
+* Поддерживающие проект разработчики не обязательно захотят предоставлять профессиональную поддержку
 
-#### Case Studies
+#### Кейсы
 
-* [Fody](https://github.com/Fody/Fody/blob/master/readme.md): Must be a Patreon supporter to open an issue or pull request
-* [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
+* [Fody](https://github.com/Fody/Fody/blob/master/readme.md): Нужно поддерживать проект на Patreon чтобы открыть запрос на issue или pull.
+* [Prism](https://www.patreon.com/prismlibrary):*Поддерживать их на Patreon даёт доступ к Slack сообщества для получения поддержки
 * [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
-* [Tidelift paid subscriptions](https://tidelift.com/subscription)
+* [Платные подписки Tidelift](https://tidelift.com/subscription)
 
-## SaaS
+## SaaS (программное обеспечение как услуга)
 
-*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself can remain open source, but you offer paid services such as charging for use of a main hosted site or for handling the hosting of dedicated instances for customers. Typically, paying customers also get priority support.*
+*SaaS значит "программное обеспечение как услуга"(https://en.wikipedia.org/wiki/Software_as_a_service). В этой модели, сам код остаётся открытым, но вы предлагаете платные услуги, такие как исполоьзование основного сайта или хостинг выделенных инстансов. Платящим клиентам обычно предоставляют приоритетную поддержку.*
 
-#### Pros
+#### Преимущества
 
-* Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
-* Can scale by number of users
+* Может создать сообщество вокруг открытого проекта и зарабатывать на хостинговых услугах
+* Позволяет открытым проектам сосредоточиться на пользователях и со временем на использовании проекта корпоративными клиентами.
+* Может масштабироваться по числу пользователей
 
-#### Cons
+#### Недостатки
 
-* Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
-* “Two tiers” of product support can make free users unhappy
+* Зачастую с таким методом хостинг должен быть дешевле чем найм разработчика
+* "Двухуровневая" система поддержки ущемляет бесплатных пользователей
 
-#### Case Studies
+#### Кейсы
 
 * [Discourse](https://www.discourse.org/)
 * [Forge Laravel](https://forge.laravel.com/)
@@ -336,45 +338,45 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Travis CI](https://travis-ci.org/)
 * [WordPress.com](http://wordpress.com/)
 
-## Copyleft + paid license
+## Копилефт + платная лицензия
 
-*Companies selling proprietary software prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a copyleft license by default, but they sell license exceptions, proprietary licenses, or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
+*Компании продающие проприетарный софт предпочитают включать лицензии с разрешением (вроде MIT или Apache 2.0) а не копилефт (вроде GPL) в своё ПО потому что использование последнего означает необходимость оставлять какую-то часть копилефт требований в конечном продукте. Поэтому некоторые открытые проекты используют копилефт по умолчанию, но продают исключения лицензий, проприетарные лицензии или лицензии с разрешением компаниям которые хотят преодолеть ограничения копилефта.*
 
-#### Pros
+#### Преимущества
 
-* Business model aligned with something people are willing to pay for
-* Can scale well if successful
+* Бизнес-модель построена на том, за что люди готовы платить
+* Хорошо масштабируется в случае успеха
 
-#### Cons
+#### Недостатки
 
-* Can be at odds with making software freely accessible
-* Project needs to be big enough that customer need exists
-* Only works for upstream software that's being used in downstream software
-* There can be legal or monetary barriers to moving code from open to proprietary 
+* Может вступать в конфликт с необходимостью делать софт открыто доступным
+* Проект должен быть достаточно большим для существования спроса
+* Работает только для upstream софта который используется при разработке downstream софта
+* Могут существовать юридические или финансовые ограничения на перевод кода из открытого в проприетарный 
 
-#### Case Studies
+#### Кейсы
 
-* [Metafizzy](https://metafizzy.co) (ex. [Isotope](https://isotope.metafizzy.co/license.html), [Flickity](https://flickity.metafizzy.co/license.html))
+* [Metafizzy](https://metafizzy.co) (Например [Isotope](https://isotope.metafizzy.co/license.html), [Flickity](https://flickity.metafizzy.co/license.html))
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [Qt](https://www1.qt.io/faq/#_Toc_3)
 * [SQLite](https://www.sqlite.org/copyright.html)
 
-## Open core
+## Открытое ядро
 
-*Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
+*С моделью [open core](https://en.wikipedia.org/wiki/Open_core) некоторые части софта остаются свободными, в то время как другие являются проприетарными и доступны только платящим пользователям. Обычно это работает когда есть корпоративный спрос на проект.*
 
-#### Pros
+#### Преимущества
 
-* Business model aligned with something people are willing to pay for
-* Can scale well if successful
+* Бизнес-модель построена на том, за что люди готовы платить
+* Хорошо масштабируется в случае успеха
 
-#### Cons
-* Need to have something you can charge for (which means making certain features exclusive)
-* Can be at odds with making software freely accessible
-* “Two tiers” of product support can make free users unhappy
-* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
+#### Недостатки
+* Должно быть что-то, за что можно взимать плату (придётся отчуждать некоторые фичи)
+* Может вступать в конфликт с необходимостью делать софт открыто доступным
+* "Двухуровневая" система поддержки ущемляет бесплатных пользователей
+* Может понадобиться CLA (Contributor License Agreement) чтобы принимать поправки в код от сторонних разработчиков, сохраняя за собой возможность релицензировать их под проприетарной лицензией
 
-#### Case Studies
+#### Кейсы
 
 * [GitLab](https://about.gitlab.com/)
 * [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
@@ -384,23 +386,23 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Phusion Passenger](https://www.phusionpassenger.com/); see also their talk, ["Bootstrapping a Business Around Open Source"](https://www.youtube.com/watch?v=uHaMpLyMOL0&feature=youtu.be) (video)
 * [Sidekiq](http://sidekiq.org/)
 
-## Foundations & consortiums
+## Фонды и консорциумы
 
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
+*[Фонд](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) это юридическое лицо, способное принимать/распределять пожертвования. Так как они созданы не для генерации прибыли, это хороший выбор чтобы показать свою нейтральность и управлять проектом. В США, фонды зарегистрированы как некоммерческие организации или торговые консорциумы. Множество софтверных фондов выбирают второе из-за сложностей с демонстрацией благотворительной цели.*
 
-#### Pros
+#### Преимущества
 
-* Neutrality. Foundation protects the code and helps steward community
-* Influence distributed across multiple donors
-* Can legitimize project, companies might feel more comfortable giving to foundations than individuals
+* Нейтральность. Фонд защищает код и способствует развитию сообщества
+* Влияние распределено на большое количество доноров
+* Может легитимизировать проект, компаниям может быть легче финансировать фонды, а не физических лиц
 
-#### Cons
+#### Недостатки
 
-* Only really worth it for big projects
-* Difficult to set up for IRS reasons (many do 501(c)(6) instead of 501(c)(3)), restrictions on what you can do
-* Requires serious community effort and diverse skills (you still need to fundraise after setting up the entity!)
+* Стоит того только для больших проектов
+* Сложно осуществимо по налоговым причинам, есть ограничения
+* Требует серьёзных коллективных усилий сообщества и разнообразия навыков (к тому же необходимость собирать средства после создания фонда никуда не денется)
 
-#### Case Studies
+#### Кейсы
 
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
@@ -408,24 +410,24 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Ruby Together](http://rubytogether.org/)
 * [Signal Foundation](https://signal.org/blog/signal-foundation/)
 
-## Venture capital
+## Венчурный капитал
 
-*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding. Unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+*Венчурный капитал - форма финансирования быстрорастущих бизнесов. В отличие от банковского займа или других форм долгового финансирования, венчурные капиталисты в обмен на финансирование рассчитывают на долю в бизнесе. В отличие от займа, если бизнес провалится возвращать деньги венчурным капиталистам не нужно. Но если он станет успешным, нужно быть готовым вернуть капитал в многократном размере.*
 
-*Venture capital is "high risk high reward": VCs are more risk tolerant than banks, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably in Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
+*Венчурный капитал это "высокий риск, высокая доходность": венчурные фонды менее чувствительны к риску, чем банки, но они ожидают больших возвратов в случае успеха. Если вы планируете проводить венчурный раунд, следует оформить юридическое лицо, облагаемое налогом, желательно в штате Дэлавер *прим.переводчика - там низкие налоги*. Если вам не знаком процесс привлечения венчурных средств, обратитесь к основателям, которые уже успешно привлекли свой капитал.*
 
-#### Pros
+#### Преимущества
 
-* Institutional support can be helpful for growing a business
-* Large amounts of capital available
+* Институциональная поддержка поможет вырастить бизнес
+* Доступно большое количество капитала
 
-#### Cons
+#### Недостатки
 
-* Venture capital comes with expectations of an exit (i.e. returning the money to investors at a multiple). History suggests this is structurally difficult to achieve for open source businesses. Venture Capital isn't actually a business model but only investment capital for those who have some *other* business model for future revenue.
-* Venture capital can change motivations and distract from priorities
-* Unavailable to non-profits
+* Венчурные капиталисты ожидают успешный выход из проекта (возврат денег в многократном объёме). Согласно истории, открытым проектам сложно добиться этого по структурным причинам. На самом деле венчурный капитал это не бизнес-модель, а инвестиционный капитал для тех, у кого готова *другая* бизнес-модель для обеспечения выручки в будушем.
+* Венчурный капитал влияет на мотивацию и сбивает приоритеты
+* Недоступно для некоммерческих организаций (*прим. переводчика: сейчас начали появляться социальные венчурные фонды, но их количество и значимость стремятся к нулю*)
 
-#### Case Studies
+#### Кейсы
 
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
 * [Gatsby](https://www.gatsbyjs.org/blog/2018-05-24-launching-new-gatsby-company/)
@@ -434,21 +436,21 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [OSS Capital](https://oss.capital/)
 
-## Restricted license
+## Ограниченная лицензия
 
-*Restricted licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet [the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. The source code is made available (either publicly, or to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially.*
+*Софт с ограниченной лицензией (напоминает старый [shareware](https://en.wikipedia.org/wiki/Shareware))  **не является открытым софтом** потому что не удовлетворяет [определению](https://en.wikipedia.org/wiki/The_Open_Source_Definition) открытой лицензии. Исходный код доступен публично или пользователям, заплатившим за лицензию, но свобода распределения или коммерческого использования может быть ограничена.*
 
-#### Pros
+#### Преимущества
 
-* Business model aligned with something people are willing to pay for
-* Potential to scale well if successful
+* Бизнес-модель построена на том, за что люди готовы платить
+* Есть потенциал к масштабированию в случае успешности
 
-#### Cons
+#### Недостатки
 
-* Not actually open source (so may fail to achieve many or most of the benefits of open source)
-* Can be controversial, erode community trust
+* На самом деле не является открытым ПО (лишено большинства преимуществ открытого софта)
+* Может выглядеть противоречиво и понижать доверие сообщества
 
-#### Case Studies
+#### Кейсы
 
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
@@ -459,12 +461,12 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ---
 
-### Contributing to this guide
+### Сделать вклад в это руководство
 
-I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
+Я написала это руководство, чтобы собрать свои знания в одном месте. Понимаю, преимущества и недостатки немного субъективны, но они отражают мои взгляды. Если вы пришлёте правки я их рассмотрю, но у меня не стояло цели учесть все точки зрения.
 
-If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would also welcome that addition.
+Если где-то есть фактические ошибки (особенно в кейсах), будет замечательно если вы пришлёте правки. Кейсы в каждой категории расположены в алфавитном порядке. Также будет прекрасно если вы знаете категории, которые не были упомянуты в этом руководстве.
 
-### License and attribution
+### Лицензия и атрибуция
 
-This guide is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). If you do use it, I'd love to hear about it! (Find me here: [@nayafia](http://twitter.com/nayafia)) But you are in no way required to do so.
+Это руководство доступно по лицензии Creative Commons CC0 1.0, вы можете свободно использовать его для любых (коммерческих и некоммерческих) целей, без необходимости атрибуции автора (общее пользование). Если вы решили спользовать его, буду рада если вы поделитесь этим со мной в Твиттере: [@nayafia](http://twitter.com/nayafia)), но вы не обязаны это делать.
