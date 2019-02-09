@@ -286,7 +286,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * [Baroque Software](http://baroquesoftware.com/)
 * [Neighbourhoodie](https://neighbourhood.ie/)
-* [OpenSSL](http://openssl.com/what.html)
+* [OpenSSL Software Foundation](https://www.openssl.org/community/contacts.html) formerly [OpenSSL Software Services](https://web.archive.org/web/20180817114118/opensslservices.com/what.html)
 * [Varnish Moral License](http://phk.freebsd.dk/VML/)
 
 ## Paid support
