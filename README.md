@@ -132,6 +132,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Babel](https://opencollective.com/babel)
 * [Clojurists Together](https://clojuriststogether.org)
 * [Eran Hammer + hapi Patreon](https://www.patreon.com/eranhammer)
+* [ESLint](https://eslint.org/blog/2019/02/funding-eslint-future)
 * [Evan You + Vue.js Patreon](https://www.patreon.com/evanyou)
 * [GnuPG](https://www.gnupg.org/donate/index.html)
 * [Ruby Together](https://rubytogether.org)
