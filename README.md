@@ -106,6 +106,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
+* [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
