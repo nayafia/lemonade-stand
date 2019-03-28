@@ -452,6 +452,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
+* [Markdown Monster](https://markdownmonster.west-wind.com/): Source code is viewable, but [a license must be purchased](https://markdownmonster.west-wind.com/download.aspx) for continued use. Project contributors are [eligible for a free license](https://markdownmonster.west-wind.com/download.aspx#Contribute)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
