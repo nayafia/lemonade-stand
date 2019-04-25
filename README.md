@@ -452,10 +452,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Markdown Monster](https://markdownmonster.west-wind.com/): Source code is viewable, but [a license must be purchased](https://markdownmonster.west-wind.com/download.aspx) for continued use. Project contributors are [eligible for a free license](https://markdownmonster.west-wind.com/download.aspx#Contribute)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Markdown Monster](https://markdownmonster.west-wind.com/)
+  * Source code is viewable, but [a license must be purchased](https://markdownmonster.west-wind.com/download.aspx) for continued use
+  * Project contributors are [eligible for a free license](https://markdownmonster.west-wind.com/download.aspx#Contribute)
+* [Onivim 2](https://github.com/onivim/oni2#license)
+  * Commercial license is pay-what-you-want, with the minimum pre-order price increasing as they get closer to shipping an MVP
+  * Anyone who financially sponsors the OSS project gets a free lifetime license
+  * Commits are dual-licensed with MIT after 18 months from commit's date to master
 * [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
 
