@@ -258,6 +258,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
+* [Chan-Zuckerberg Initiative grant program for open source software in science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
 * [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
 * [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
