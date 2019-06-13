@@ -236,6 +236,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 * [Google and Go](https://golang.org/doc/faq#history)
 * [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
+* [Formidable's Sauce program](https://formidable.com/blog/2019/sauce-program/), where they pay employees for their open source contibutions
 
 
 ## Grants
