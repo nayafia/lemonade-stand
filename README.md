@@ -79,6 +79,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * [Bountysource](http://bountysource.com)
 * [Gitcoin](https://gitcoin.co/explorer)
+* [Gitpay](https://gitpay.me)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 * [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
 * [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
