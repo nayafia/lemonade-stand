@@ -186,6 +186,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [GitFund](https://gitfund.io)
 * [Hoodie](http://hood.ie/sponsoring/)
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
+* [Feross's experiment with StandardJS](https://feross.org/funding-experiment-recap/)
+* Kite sponsorship of Minimap ([summary](https://medium.com/@nayafia/the-kite-debacle-is-democracy-at-work-6a04bc043c50))
 
 ## Get hired by a company to work on project
 
