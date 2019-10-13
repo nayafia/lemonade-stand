@@ -71,7 +71,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Can create perverse incentives in a project (low quality PRs, distracting priorities)
-* Conflicts can arise over whether work fulfils a bounty
+* Conflicts can arise over whether work fulfills a bounty
 * Usually not much money per bounty (~<$500)
 * Doesn’t provide recurring revenue
 
