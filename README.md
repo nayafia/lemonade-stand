@@ -236,7 +236,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 * [Google and Go](https://golang.org/doc/faq#history)
-* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
+* [Mozilla and Rust](https://prev.rust-lang.org/en-US/faq.html#is-this-project-controlled-by-mozilla)
 * [Formidable's Sauce program](https://formidable.com/blog/2019/sauce-program/), where they pay employees for their open source contributions
 
 
