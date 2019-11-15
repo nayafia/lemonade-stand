@@ -84,7 +84,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
 * [IssueHunt](https://issuehunt.io)
-* [Status Open Bounty](https://openbounty.status.im/)
+* [The Bounties Network](https://www.bounties.network/)
 
 ## Crowdfunding (one-time)
 
@@ -108,9 +108,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
 * [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
-* [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
+* [Monero Community Crowdfunding System (CCS)](https://ccs.getmonero.org/)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
-* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 
 ## Crowdfunding (recurring)
 
@@ -237,7 +236,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 * [Google and Go](https://golang.org/doc/faq#history)
-* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
+* [Mozilla and Rust](https://prev.rust-lang.org/en-US/faq.html#is-this-project-controlled-by-mozilla)
 * [Formidable's Sauce program](https://formidable.com/blog/2019/sauce-program/), where they pay employees for their open source contributions
 
 
