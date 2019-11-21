@@ -382,7 +382,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [GitLab](https://about.gitlab.com/)
-* [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
+* [Caddy](https://caddyserver.com/v1/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
