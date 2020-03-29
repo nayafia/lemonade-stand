@@ -14,21 +14,22 @@ The categories are not mutually exclusive. For example, a project might have a f
 # Table of Contents
 1. [Donation button](#donation-button)
 2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
-6. [Advertising & sponsorships](#advertising--sponsorships)
-7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-8. [Start a project while currently employed](#start-a-project-while-currently-employed)
-9. [Grants](#grants)
-10. [Consulting](#consulting)
-11. [Paid support](#paid-support)
-12. [SaaS](#saas)
-13. [Copyleft + paid license](#copyleft--paid-license)
-14. [Open core](#open-core)
-15. [Foundations & consortiums](#foundations--consortiums)
-16. [Venture capital](#venture-capital)
-17. [Restricted license](#restricted-license)
+3. [Sponsorware (a.k.a. Unlocking the commons)](#sponsorware-aka-unlocking-the-commons)
+4. [Crowdfunding (one-time)](#crowdfunding-one-time)
+5. [Crowdfunding (recurring)](#crowdfunding-recurring)
+6. [Books and merchandise](#books-and-merchandise)
+7. [Advertising & sponsorships](#advertising--sponsorships)
+8. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+9. [Start a project while currently employed](#start-a-project-while-currently-employed)
+10. [Grants](#grants)
+11. [Consulting](#consulting)
+12. [Paid support](#paid-support)
+13. [SaaS](#saas)
+14. [Copyleft + paid license](#copyleft--paid-license)
+15. [Open core](#open-core)
+16. [Foundations & consortiums](#foundations--consortiums)
+17. [Venture capital](#venture-capital)
+18. [Restricted license](#restricted-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Russian(русский)](https://github.com/saviorand/lemonade-stand_ru)
@@ -86,6 +87,29 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [IssueHunt](https://issuehunt.io)
 * [The Bounties Network](https://www.bounties.network/)
 
+## Sponsorware (a.k.a. Unlocking the commons)
+
+*If you'd like to open source a project but you're ensure that the community invests in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship.*
+
+*This is similar to [Crowdfunding (one-time)]((#crowdfunding-one-time)) described below, except that instead of funding the work in advance, you build the software from the get-go then choose whether or not to open source it depending on whether you hit your goal.*
+
+#### Pros
+
+* Can be recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
+* It can be a useful signal as to whether people value the package
+* Gives people immediate value – people could sponsor you and get access to the package right away
+* Doesn’t restrict future potential growth of the project and upholds the spirit of open source
+
+#### Cons
+
+* Doesn't work for projects that are already released
+* Likely only works for eye-catching projects where a demo or proof-of-concept is very exciting
+
+#### Case Studies
+
+* [Caleb Porzio's `sushi` package](https://calebporzio.com/sponsorware)
+* [Unlocking the commons (for an email newsletter)](https://www.niemanlab.org/2019/01/unlocking-the-commons)
+
 ## Crowdfunding (one-time)
 
 *If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
@@ -138,27 +162,6 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Ruby Together](https://rubytogether.org)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [webpack](https://opencollective.com/webpack)
-
-## Sponsorware (a.k.a. "Unlocking the commons")
-
-*If you'd like to open source a project but you're ensure that the community invests in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship.*
-
-#### Pros
-
-* Can be recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
-* It can be a useful signal as to whether people value the package
-* Gives people immediate value – people could sponsor you and get access to the package right away
-* Doesn’t restrict future potential growth of the project and upholds the spirit of open source
-
-#### Cons
-
-* Doesn't work for projects that are already released
-* Likely only works for eye-catching projects where a demo or proof-of-concept is very exciting
-
-#### Case Studies
-
-* [Caleb Porzio's `sushi` package](https://calebporzio.com/sponsorware)
-* https://www.niemanlab.org/2019/01/unlocking-the-commons
 
 ## Books and merchandise
 
