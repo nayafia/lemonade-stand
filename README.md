@@ -139,6 +139,27 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [webpack](https://opencollective.com/webpack)
 
+## Sponsorware (a.k.a. "Unlocking the commons")
+
+*If you'd like to open source a project but you're ensure that the community invests in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship.*
+
+#### Pros
+
+* Can be recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
+* It can be a useful signal as to whether people value the package
+* Gives people immediate value – people could sponsor you and get access to the package right away
+* Doesn’t restrict future potential growth of the project and upholds the spirit of open source
+
+#### Cons
+
+* Doesn't work for projects that are already released
+* Likely only works for eye-catching projects where a demo or proof-of-concept is very exciting
+
+#### Case Studies
+
+* [Caleb Porzio's `sushi` package](https://calebporzio.com/sponsorware)
+* https://www.niemanlab.org/2019/01/unlocking-the-commons
+
 ## Books and merchandise
 
 *If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
