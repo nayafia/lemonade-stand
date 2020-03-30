@@ -14,7 +14,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 # Table of Contents
 1. [Donation button](#donation-button)
 2. [Bounties](#bounties)
-3. [Sponsorware (a.k.a. Unlocking the commons)](#sponsorware-aka-unlocking-the-commons)
+3. [Sponsorware](#sponsorware)
 4. [Crowdfunding (one-time)](#crowdfunding-one-time)
 5. [Crowdfunding (recurring)](#crowdfunding-recurring)
 6. [Books and merchandise](#books-and-merchandise)
@@ -87,17 +87,17 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [IssueHunt](https://issuehunt.io)
 * [The Bounties Network](https://www.bounties.network/)
 
-## Sponsorware (a.k.a. Unlocking the commons)
+## Sponsorware
 
-*If you'd like to open source a project but you're ensure that the community invests in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship.*
+*If you'd like to open source a project but want to ensure that others will invest in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship. (Writer Tim Carmody refers to this as ["unlocking the commons."](https://www.niemanlab.org/2019/01/unlocking-the-commons/))*
 
-*This is similar to [Crowdfunding (one-time)]((#crowdfunding-one-time)) described below, except that instead of funding the work in advance, you build the software from the get-go then choose whether or not to open source it depending on whether you hit your goal.*
+*This is similar to [Crowdfunding (one-time)]((#crowdfunding-one-time)) described below, except that instead of funding the work in advance, you build the software from the get-go, then choose whether or not to open source it depending on whether you hit your goal.*
 
 #### Pros
 
 * Can be recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
 * It can be a useful signal as to whether people value the package
-* Gives people immediate value – people could sponsor you and get access to the package right away
+* Gives people immediate value – people can sponsor you and get access to the package right away
 * Doesn’t restrict future potential growth of the project and upholds the spirit of open source
 
 #### Cons
@@ -108,7 +108,6 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Caleb Porzio's `sushi` package](https://calebporzio.com/sponsorware)
-* [Unlocking the commons (for an email newsletter)](https://www.niemanlab.org/2019/01/unlocking-the-commons)
 
 ## Crowdfunding (one-time)
 
