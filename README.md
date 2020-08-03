@@ -153,6 +153,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Babel](https://opencollective.com/babel)
+* [Caleb Porzio + Laravel Livewire and more](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [Clojurists Together](https://clojuriststogether.org)
 * [Eran Hammer + hapi Patreon](https://www.patreon.com/eranhammer)
 * [ESLint](https://eslint.org/blog/2019/02/funding-eslint-future)
