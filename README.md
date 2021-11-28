@@ -291,6 +291,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Grin General Fund](http://grin-tech.org/funding.html)
 * [Handshake community grant program](https://handshake.org)
 * [Libraries.io grant applications](https://github.com/librariesio/supporters)
+* [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding#grants) has a list of grants
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 * [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
 
