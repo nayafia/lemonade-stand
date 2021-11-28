@@ -141,7 +141,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/) See a longer list at [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding#crowdfunding).
+* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
 
 #### Cons
 
@@ -291,12 +291,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Grin General Fund](http://grin-tech.org/funding.html)
 * [Handshake community grant program](https://handshake.org)
 * [Libraries.io grant applications](https://github.com/librariesio/supporters)
+* [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding#grants) has a list of grants
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 * [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
-
-#### Grant lists
-
-* [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding#grants) has list of several available grants
 
 ## Consulting
 
