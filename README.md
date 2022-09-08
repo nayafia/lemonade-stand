@@ -211,6 +211,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Feross's experiment with StandardJS](https://feross.org/funding-experiment-recap/)
 * Kite sponsorship of Minimap ([summary](https://medium.com/@nayafia/the-kite-debacle-is-democracy-at-work-6a04bc043c50))
+* [Caddy](https://github.com/caddyserver/caddy) (exclusively sponsorships)
 
 ## Get hired by a company to work on project
 
@@ -407,7 +408,6 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [GitLab](https://about.gitlab.com/)
-* [Caddy](https://caddyserver.com/v1/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
