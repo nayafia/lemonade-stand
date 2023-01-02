@@ -340,6 +340,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
 * [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
 * [Tidelift paid subscriptions](https://tidelift.com/subscription)
+* [BookMyTime](https://bookmytime.dev): Make it easy for users to know that you provide paid On-Demand support and your per hour support charges
 
 ## SaaS
 
