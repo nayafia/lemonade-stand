@@ -340,6 +340,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
 * [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
 * [Tidelift paid subscriptions](https://tidelift.com/subscription)
+* [Brainpick](https://brainpick.co.uk): Stackoverflow for Enterprise
 
 ## SaaS
 
@@ -350,6 +351,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Can build community around open project and make money off of services for hosting
 * Allows open source project to focus on users and as needs grow to help enterprises adopt the project
 * Can scale by number of users
+* Allows enterprises to have fewer contracts (ideally one) to support multiple OSS products
+* Gives users a better tool to have their issues resolved 
 
 #### Cons
 
