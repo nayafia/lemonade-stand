@@ -84,7 +84,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
 * [IssueHunt](https://issuehunt.io)
-* [The Bounties Network](https://www.bounties.network/)
+* [The Bounties Network](https://bounties.network/)
 
 ## Sponsorware
 
