@@ -32,7 +32,7 @@ The categories are not mutually exclusive. For example, a project might have a f
 18. [Restricted license](#restricted-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
-TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Russian(русский)](https://github.com/saviorand/lemonade-stand_ru)
+TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Russian(русский)](https://github.com/saviorand/lemonade-stand_ru) // [Bulgarian(български)](https://github.com/BlueButterflies/HowToPaidFromOpenSource-/tree/main)
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
