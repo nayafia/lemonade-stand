@@ -140,7 +140,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com)
 
 #### Cons
 
