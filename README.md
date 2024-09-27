@@ -489,9 +489,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
   * Commercial license is pay-what-you-want, with the minimum pre-order price increasing as they get closer to shipping an MVP
   * Anyone who financially sponsors the OSS project gets a free lifetime license
   * Commits are dual-licensed with MIT after 18 months from commit's date to master
+* [OSE (Open Source Eventually License)](https://github.com/ftrotter/OSE)
 * [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
-
 
 ---
 
