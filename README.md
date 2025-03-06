@@ -94,7 +94,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Pros
 
-* Can be recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
+* Can be a recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
 * It can be a useful signal as to whether people value the package
 * Gives people immediate value – people can sponsor you and get access to the package right away
 * Doesn’t restrict future potential growth of the project and upholds the spirit of open source
@@ -122,14 +122,13 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Lots of work involved to market campaign
 * Usually has to be tied to concrete outcome, perks
 * Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+* Companies are not always comfortable donating to campaigns
 
 #### Case Studies
 
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
-* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Monero Community Crowdfunding System (CCS)](https://ccs.getmonero.org/)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 
@@ -140,14 +139,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com)
+* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com)
 
 #### Cons
 
 * Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
 * Harder to explain concrete outcomes, perks that come with recurring donations
 * Usually not that much money (~$1-4K monthly)
-* Companies not always comfortable donating to campaigns
+* Companies are not always comfortable donating to campaigns
 
 #### Case Studies
 
@@ -175,7 +174,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Often not a significant source of revenue
-* Can distract from core development of project
+* Can distract from the core development of a project
 * Merchandise can have upfront costs
 
 #### Case Studies
@@ -196,7 +195,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Cons
 
-* Need large enough audience to justify sponsorships
+* Need a large enough audience to justify sponsorships
 * Need to manage trust and transparency with user base (ex. no tracking)
 * Can be a lot of work to find and manage clients
 * Can involve ethical concerns about marketing
@@ -212,7 +211,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Kite sponsorship of Minimap ([summary](https://medium.com/@nayafia/the-kite-debacle-is-democracy-at-work-6a04bc043c50))
 * [Caddy](https://github.com/caddyserver/caddy) (exclusively sponsorships)
 
-## Get hired by a company to work on project
+## Get hired by a company to work on a project
 
 *Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
 
@@ -227,7 +226,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
 * Project already needs to be well-known and used
 * Person not contributing to company’s bottom line, which makes them expendable
-* Governance issues, company could have undue influence over project
+* Governance issues, a company could have undue influence over the project
 * Can affect project dynamics + balance
 
 #### Case Studies
@@ -347,7 +346,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
+* Allows open source project to focus on users, and as needs grow to help enterprises adopt the project
 * Can scale by number of users
 
 #### Cons
@@ -378,7 +377,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Can be at odds with making software freely accessible
-* Project needs to be big enough that customer need exists
+* Project needs to be big enough that a customer need exists
 * Only works for upstream software that's being used in downstream software
 * There can be legal or monetary barriers to moving code from open to proprietary 
 
@@ -402,7 +401,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
-* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
+* May require a CLA (Contributor License Agreement) to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
 
 #### Case Studies
 
@@ -415,11 +414,11 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Foundations & consortiums
 
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
+*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) requires demonstrating a charitable purpose, which can be more difficult in software.*
 
 #### Pros
 
-* Neutrality. Foundation protects the code and helps steward community
+* Neutrality. Foundation protects the code and helps steward the community
 * Influence distributed across multiple donors
 * Can legitimize project, companies might feel more comfortable giving to foundations than individuals
 
@@ -488,7 +487,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Onivim 2](https://github.com/onivim/oni2#license)
   * Commercial license is pay-what-you-want, with the minimum pre-order price increasing as they get closer to shipping an MVP
   * Anyone who financially sponsors the OSS project gets a free lifetime license
-  * Commits are dual-licensed with MIT after 18 months from commit's date to master
+  * Commits are dual-licensed with MIT after 18 months from the commit's date to master
 * [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
 
@@ -497,9 +496,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ### Contributing to this guide
 
-I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
+I wrote up this guide to aggregate my knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
 
-If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would also welcome that addition.
+If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would welcome that addition.
 
 ### License and attribution
 
