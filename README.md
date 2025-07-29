@@ -292,6 +292,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding#grants) has a list of grants
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 * [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
+* [GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)
+* [FLOSS/Fund](https://floss.fund/)
 
 ## Consulting
 
