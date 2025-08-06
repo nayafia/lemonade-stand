@@ -286,6 +286,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
 * [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
+* [FLOSS/Fund](https://floss.fund/)
+* [GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)
 * [Grin General Fund](http://grin-tech.org/funding.html)
 * [Handshake community grant program](https://handshake.org)
 * [Libraries.io grant applications](https://github.com/librariesio/supporters)
