@@ -14,23 +14,25 @@ The categories are not mutually exclusive. For example, a project might have a f
 # Table of Contents
 1. [Donation button](#donation-button)
 2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
-6. [Advertising & sponsorships](#advertising--sponsorships)
-7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-8. [Start a project while currently employed](#start-a-project-while-currently-employed)
-9. [Grants](#grants)
-10. [Consulting & services](#consulting--services)
-11. [SaaS](#saas)
-12. [Dual license](#dual-license)
-13. [Open core](#open-core)
-14. [Foundations & consortiums](#foundations--consortiums)
-15. [Venture capital](#venture-capital)
-16. [Shared source](#shared-source)
+3. [Sponsorware](#sponsorware)
+4. [Crowdfunding (one-time)](#crowdfunding-one-time)
+5. [Crowdfunding (recurring)](#crowdfunding-recurring)
+6. [Books and merchandise](#books-and-merchandise)
+7. [Advertising & sponsorships](#advertising--sponsorships)
+8. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+9. [Start a project while currently employed](#start-a-project-while-currently-employed)
+10. [Grants](#grants)
+11. [Consulting](#consulting)
+12. [Paid support](#paid-support)
+13. [SaaS](#saas)
+14. [Copyleft + paid license](#copyleft--paid-license)
+15. [Open core](#open-core)
+16. [Foundations & consortiums](#foundations--consortiums)
+17. [Venture capital](#venture-capital)
+18. [Restricted license](#restricted-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
-TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
+TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Russian(русский)](https://github.com/saviorand/lemonade-stand_ru) // [Bulgarian(български)](https://github.com/BlueButterflies/HowToPaidFromOpenSource-/tree/main)
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
@@ -47,15 +49,15 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Usually not much money unless you have dedicated fundraising efforts
 * Need an entity to accept donations, which may take a fee for doing so.  Examples are Stripe and PayPal.
-* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [SFC](https://sfconservancy.org) and [NumFOCUS](https://www.numfocus.org) are examples. Harder for individuals or international donations to manage
+* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [Software Freedom Conservancy](https://sfconservancy.org) and [NumFOCUS](https://www.numfocus.org) are examples. Harder for individuals or international donations to manage
 * Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
 
 #### Case Studies
 
-* [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
+* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
-* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
+* [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 
 ## Bounties
 
@@ -77,11 +79,33 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Gitcoin](https://gitcoin.co/explorer)
-* [Bountysource](http://bountysource.com)
-* [Internet Bug Bounty](https://internetbugbounty.org/)
-* [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
-* [Status Open Bounty](https://openbounty.status.im/)
+* [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
+* [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
+* [Internet Bug Bounty](https://internetbugbounty.org/)
+* [IssueHunt](https://issuehunt.io)
+
+## Sponsorware
+
+*If you'd like to open source a project but want to ensure that others will invest in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship. (Writer Tim Carmody refers to this as ["unlocking the commons."](https://www.niemanlab.org/2019/01/unlocking-the-commons/))*
+
+*This is similar to [Crowdfunding (one-time)]((#crowdfunding-one-time)) described below, except that instead of funding the work in advance, you build the software from the get-go, then choose whether or not to open source it depending on whether you hit your goal.*
+
+#### Pros
+
+* Can be a recurring source of revenue after initial development, depending on how you set up the conditions of releasing the project
+* It can be a useful signal as to whether people value the package
+* Gives people immediate value – people can sponsor you and get access to the package right away
+* Doesn’t restrict future potential growth of the project and upholds the spirit of open source
+
+#### Cons
+
+* Doesn't work for projects that are already released
+* Likely only works for eye-catching projects where a demo or proof-of-concept is very exciting
+
+#### Case Studies
+
+* [Caleb Porzio's `sushi` package](https://calebporzio.com/sponsorware)
 
 ## Crowdfunding (one-time)
 
@@ -97,16 +121,15 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Lots of work involved to market campaign
 * Usually has to be tied to concrete outcome, perks
 * Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+* Companies are not always comfortable donating to campaigns
 
 #### Case Studies
 
-* [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
+* [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
+* [Monero Community Crowdfunding System (CCS)](https://ccs.getmonero.org/)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
-* [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
 
 ## Crowdfunding (recurring)
 
@@ -115,24 +138,27 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com)
 
 #### Cons
 
 * Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
 * Harder to explain concrete outcomes, perks that come with recurring donations
 * Usually not that much money (~$1-4K monthly)
-* Companies not always comfortable donating to campaigns
+* Companies are not always comfortable donating to campaigns
 
 #### Case Studies
 
-* [Vue.js](https://www.patreon.com/evanyou)
-* [MochaJS](https://opencollective.com/mochajs)
-* [React-boilerplate](https://opencollective.com/react-boilerplate)
-* [GnuPG](https://www.gnupg.org/donate/index.html)
-* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
-* [Ruby Together](https://rubytogether.org)
+* [Babel](https://opencollective.com/babel)
+* [Caleb Porzio + Laravel Livewire and more](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 * [Clojurists Together](https://clojuriststogether.org)
+* [Eran Hammer + hapi Patreon](https://www.patreon.com/eranhammer)
+* [ESLint](https://eslint.org/blog/2019/02/funding-eslint-future)
+* [Evan You + Vue.js Patreon](https://www.patreon.com/evanyou)
+* [GnuPG](https://www.gnupg.org/donate/index.html)
+* [Ruby Together](https://rubytogether.org)
+* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
+* [webpack](https://opencollective.com/webpack)
 
 ## Books and merchandise
 
@@ -147,16 +173,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Often not a significant source of revenue
-* Can distract from core development of project
+* Can distract from the core development of a project
 * Merchandise can have upfront costs
 
 #### Case Studies
 
-* [Lua](https://www.lua.org/pil/)
-* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
-* [Kyle Simpson + You Don't Know JS (personal effort)](https://github.com/getify/You-Dont-Know-JS)
 * [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
+* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (personal effort)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Kyle Simpson + You Don't Know JS (personal effort)](https://github.com/getify/You-Dont-Know-JS)
+* [Lua](https://www.lua.org/pil/)
+* [Sandi Metz + Practical Object-Oriented Design in Ruby (personal effort)](http://www.poodr.com/)
 
 ## Advertising & sponsorships
 
@@ -168,7 +194,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Cons
 
-* Need large enough audience to justify sponsorships
+* Need a large enough audience to justify sponsorships
 * Need to manage trust and transparency with user base (ex. no tracking)
 * Can be a lot of work to find and manage clients
 * Can involve ethical concerns about marketing
@@ -176,12 +202,15 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
-* [Hoodie](http://hood.ie/sponsoring/)
-* [Code Sponsor](https://codesponsor.io)
+* [CodeFund](https://codefund.io)
 * [GitFund](https://gitfund.io)
+* [Hoodie](http://hood.ie/sponsoring/)
+* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
+* [Feross's experiment with StandardJS](https://feross.org/funding-experiment-recap/)
+* Kite sponsorship of Minimap ([summary](https://medium.com/@nayafia/the-kite-debacle-is-democracy-at-work-6a04bc043c50))
+* [Caddy](https://github.com/caddyserver/caddy) (exclusively sponsorships)
 
-## Get hired by a company to work on project
+## Get hired by a company to work on a project
 
 *Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
 
@@ -196,14 +225,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
 * Project already needs to be well-known and used
 * Person not contributing to company’s bottom line, which makes them expendable
-* Governance issues, company could have undue influence over project
+* Governance issues, a company could have undue influence over the project
 * Can affect project dynamics + balance
 
 #### Case Studies
 
+* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Donald Stufft + Hewlett-Packard and Python packaging (personal effort)](https://twitter.com/dstufft/status/594119386333609984)
 * [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
-* [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 ## Start a project while currently employed
@@ -226,14 +255,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
-* [Google and Go](https://golang.org/doc/faq#history)
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
 * [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
+* [Google and Go](https://golang.org/doc/faq#history)
+* [Mozilla and Rust](https://prev.rust-lang.org/en-US/faq.html#is-this-project-controlled-by-mozilla)
+* [Formidable's Sauce program](https://formidable.com/blog/2019/sauce-program/), where they pay employees for their open source contributions
+
 
 ## Grants
 
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+*Grants are monetary gifts that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
 
 *Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
 
@@ -250,13 +281,21 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Dat](https://usopendata.org/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
-* [Libraries.io grant applications](https://github.com/librariesio/supporters)
+* [Chan-Zuckerberg Initiative grant program for open source software in science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
+* [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
+* [Dat Project](https://blog.datproject.org/2017/09/15/dat-funding-history/)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
+* [FLOSS/Fund](https://floss.fund/)
+* [GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)
+* [Grin General Fund](http://grin-tech.org/funding.html)
+* [Handshake community grant program](https://handshake.org)
+* [Libraries.io grant applications](https://github.com/librariesio/supporters)
+* [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding#grants) has a list of grants
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
+* [Sentry Open Source Grant](https://blog.sentry.io/2019/01/29/apply-sentry-open-source-grant)
 
-## Consulting & services
+## Consulting
 
 *Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
 
@@ -275,10 +314,31 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Varnish Moral License](http://phk.freebsd.dk/VML/)
-* [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
-* [OpenSSL](http://openssl.com/what.html)
+* [Neighbourhoodie](https://neighbourhood.ie/)
+* [OpenSSL Software Foundation](https://www.openssl.org/community/contacts.html) formerly [OpenSSL Software Services](https://web.archive.org/web/20180817114118/opensslservices.com/what.html)
+* [Varnish Moral License](http://phk.freebsd.dk/VML/)
+
+## Paid support
+
+*In this model, the code is freely available, but users need to pay to receive support from the project's maintainers. That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).*
+
+#### Pros
+
+* Business model aligned with something people are willing to pay for
+
+#### Cons
+
+* Can be at odds with making software simple to use
+* Project needs to be sufficiently popular that people are willing to pay
+* Maintainers don't necessarily want to offer professional support
+
+#### Case Studies
+
+* [Fody](https://github.com/Fody/Fody/blob/master/readme.md): Must be a Patreon supporter to open an issue or pull request
+* [Prism](https://www.patreon.com/prismlibrary): Supporting their Patreon gives you access to their community Slack channel for project support
+* [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
+* [Tidelift paid subscriptions](https://tidelift.com/subscription)
 
 ## SaaS
 
@@ -287,7 +347,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Pros
 
 * Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
+* Allows open source project to focus on users, and as needs grow to help enterprises adopt the project
 * Can scale by number of users
 
 #### Cons
@@ -297,18 +357,18 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Moodle](https://moodle.org/)
+* [Discourse](https://www.discourse.org/)
 * [Forge Laravel](https://forge.laravel.com/)
+* [Ghost](https://ghost.org/about/)
+* [GitLab](https://gitlab.com) (also uses open core licensing)
+* [Moodle](https://moodle.org/)
 * [Sentry](https://getsentry.com/)
 * [Travis CI](https://travis-ci.org/)
 * [WordPress.com](http://wordpress.com/)
-* [Discourse](https://www.discourse.org/)
-* [Ghost](https://ghost.org/about/)
-* [GitLab](https://gitlab.com) (also uses open core licensing)
 
-## Dual License
+## Copyleft + paid license
 
-*Companies prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a dual-license approach: the default project license is copyleft, but they sell either proprietary or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
+*Companies selling proprietary software prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a copyleft license by default, but they sell license exceptions, proprietary licenses, or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
 
 #### Pros
 
@@ -318,14 +378,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Can be at odds with making software freely accessible
-* Project needs to be big enough that customer need exists
+* Project needs to be big enough that a customer need exists
 * Only works for upstream software that's being used in downstream software
+* There can be legal or monetary barriers to moving code from open to proprietary 
 
 #### Case Studies
 
-* [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
-* [SQLite](https://www.sqlite.org/copyright.html)
 * [Metafizzy](https://metafizzy.co) (ex. [Isotope](https://isotope.metafizzy.co/license.html), [Flickity](https://flickity.metafizzy.co/license.html))
+* [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
+* [Qt](https://www1.qt.io/faq/#_Toc_3)
+* [SQLite](https://www.sqlite.org/copyright.html)
 
 ## Open core
 
@@ -340,25 +402,24 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
-* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
+* May require a CLA (Contributor License Agreement) to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
 
 #### Case Studies
 
+* [GitLab](https://about.gitlab.com/)
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
 * [Mesosphere](https://mesosphere.com/)
 * [Phusion Passenger](https://www.phusionpassenger.com/); see also their talk, ["Bootstrapping a Business Around Open Source"](https://www.youtube.com/watch?v=uHaMpLyMOL0&feature=youtu.be) (video)
 * [Sidekiq](http://sidekiq.org/)
-* [Caddy](https://caddyserver.com/blog/accouncing-caddy-commercial-licenses); see also [retrospective](https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/7)
-* [GitLab](https://about.gitlab.com/)
 
 ## Foundations & consortiums
 
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
+*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) requires demonstrating a charitable purpose, which can be more difficult in software.*
 
 #### Pros
 
-* Neutrality. Foundation protects the code and helps steward community
+* Neutrality. Foundation protects the code and helps steward the community
 * Influence distributed across multiple donors
 * Can legitimize project, companies might feel more comfortable giving to foundations than individuals
 
@@ -371,9 +432,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Case Studies
 
 * [Linux Foundation](https://www.linuxfoundation.org/)
-* [Ruby Together](http://rubytogether.org/)
-* [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
+* [Python Software Foundation](https://www.python.org/psf/)
+* [Ruby Together](http://rubytogether.org/)
 * [Signal Foundation](https://signal.org/blog/signal-foundation/)
 
 ## Venture capital
@@ -395,14 +456,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Case Studies
 
-* [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
-* [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
+* [Gatsby](https://www.gatsbyjs.org/blog/2018-05-24-launching-new-gatsby-company/)
 * [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
+* [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
+* [Npm](http://blog.npmjs.org/post/76320673650/funding)
+* [OSS Capital](https://oss.capital/)
 
-## Shared source
+## Restricted license
 
-*Shared source licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. With shared source, the source code is available (either publicly or at least to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially, and so on. Still, they are tangentially related to open source work.*
+*Restricted licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet [the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. The source code is made available (either publicly, or to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially.*
 
 #### Pros
 
@@ -412,12 +475,21 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 #### Cons
 
 * Not actually open source (so may fail to achieve many or most of the benefits of open source)
+* Can be controversial, erode community trust
 
 #### Case Studies
 
-* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
+* [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
+* [Markdown Monster](https://markdownmonster.west-wind.com/)
+  * Source code is viewable, but [a license must be purchased](https://markdownmonster.west-wind.com/download.aspx) for continued use
+  * Project contributors are [eligible for a free license](https://markdownmonster.west-wind.com/download.aspx#Contribute)
+* [Onivim 2](https://github.com/onivim/oni2#license)
+  * Commercial license is pay-what-you-want, with the minimum pre-order price increasing as they get closer to shipping an MVP
+  * Anyone who financially sponsors the OSS project gets a free lifetime license
+  * Commits are dual-licensed with MIT after 18 months from the commit's date to master
+* [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
 
 
@@ -425,9 +497,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ### Contributing to this guide
 
-I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
+I wrote up this guide to aggregate my knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
 
-If something is factually incorrect (especially with a case study example), I welcome your edits. Also, if there's a category you know of that I missed, I would also welcome that addition.
+If something is factually incorrect (especially with a case study example), I welcome your edits. Case studies are organized alphabetically within each category. Also, if there's a category you know of that I missed, I would welcome that addition.
 
 ### License and attribution
 
