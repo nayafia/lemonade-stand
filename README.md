@@ -14,22 +14,23 @@ The categories are not mutually exclusive. For example, a project might have a f
 # Table of Contents
 1. [Donation button](#donation-button)
 2. [Bounties](#bounties)
-3. [Sponsorware](#sponsorware)
-4. [Crowdfunding (one-time)](#crowdfunding-one-time)
-5. [Crowdfunding (recurring)](#crowdfunding-recurring)
-6. [Books and merchandise](#books-and-merchandise)
-7. [Advertising & sponsorships](#advertising--sponsorships)
-8. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-9. [Start a project while currently employed](#start-a-project-while-currently-employed)
-10. [Grants](#grants)
-11. [Consulting](#consulting)
-12. [Paid support](#paid-support)
-13. [SaaS](#saas)
-14. [Copyleft + paid license](#copyleft--paid-license)
-15. [Open core](#open-core)
-16. [Foundations & consortiums](#foundations--consortiums)
-17. [Venture capital](#venture-capital)
-18. [Restricted license](#restricted-license)
+3. [Continuous Funding](#continuous-funding)
+4. [Sponsorware](#sponsorware)
+5. [Crowdfunding (one-time)](#crowdfunding-one-time)
+6. [Crowdfunding (recurring)](#crowdfunding-recurring)
+7. [Books and merchandise](#books-and-merchandise)
+8. [Advertising & sponsorships](#advertising--sponsorships)
+9. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
+10. [Start a project while currently employed](#start-a-project-while-currently-employed)
+11. [Grants](#grants)
+12. [Consulting](#consulting)
+13. [Paid support](#paid-support)
+14. [SaaS](#saas)
+15. [Copyleft + paid license](#copyleft--paid-license)
+16. [Open core](#open-core)
+17. [Foundations & consortiums](#foundations--consortiums)
+18. [Venture capital](#venture-capital)
+19. [Restricted license](#restricted-license)
 
 APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
 TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand) // [Russian(русский)](https://github.com/saviorand/lemonade-stand_ru) // [Bulgarian(български)](https://github.com/BlueButterflies/HowToPaidFromOpenSource-/tree/main)
@@ -84,6 +85,31 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Inkscape's "funded development" system](https://inkscape.org/support-us/funded-development/)
 * [Internet Bug Bounty](https://internetbugbounty.org/)
 * [IssueHunt](https://issuehunt.io)
+
+## Continuous Funding
+
+*Add a open source funding bot to your public continuous integration pipeline that pays out contributors based on project activity. Donation buttons and transactions are published to the Wiki of your project.  When the wallet  is empty the next release will just fail as long as no new donations are made to the project. The aim of this concept is to replace the middleman in donation distribution as far as possible with a free and transparent algorithm*
+
+#### Pros
+
+* High transparency in donation distribution
+* Encourages other contributors to participate in your project
+* Simple adaption to different project types
+* Due to the use of cryptocurrency very low fees
+* The concept is independent from larger platforms
+
+#### Cons
+
+* Tuning the donation distribution weights can be quite complex
+* Technically complex 
+* Higher fluctuation of cryptocurrency 
+* Donation distribution can influence contribution behavior
+* Still an experimental concept.
+
+#### Case Studies
+
+* [LibreSelery](https://github.com/protontypes/libreselery)
+* [Launch of protontypes](https://protontypes.eu/blog/2020/09/02/launch-of-protontypes/)
 
 ## Sponsorware
 
@@ -476,6 +502,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Not actually open source (so may fail to achieve many or most of the benefits of open source)
 * Can be controversial, erode community trust
+
+
 
 #### Case Studies
 
