@@ -89,7 +89,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 *If you'd like to open source a project but want to ensure that others will invest in its long-term maintenance, you could tell your community that you'll open source the project once you've hit a certain amount of sponsorship. (Writer Tim Carmody refers to this as ["unlocking the commons."](https://www.niemanlab.org/2019/01/unlocking-the-commons/))*
 
-*This is similar to [Crowdfunding (one-time)]((#crowdfunding-one-time)) described below, except that instead of funding the work in advance, you build the software from the get-go, then choose whether or not to open source it depending on whether you hit your goal.*
+*This is similar to [Crowdfunding (one-time)](#crowdfunding-one-time) described below, except that instead of funding the work in advance, you build the software from the get-go, then choose whether or not to open source it depending on whether you hit your goal.*
 
 #### Pros
 
